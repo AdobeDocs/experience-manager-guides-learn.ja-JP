@@ -5,6 +5,6 @@ source-wordcount: '20'
 ht-degree: 0%
 
 ---
-# Adobe Experience Managerガイド
+# Adobe Experience Manager Guides
 
-これは、「AEM Guides」コースのビデオと Markdown ファイルを保存するリポジトリです。
+これは、「AEM Guides」コースのビデオおよび Markdown ファイルを保存するリポジトリです。

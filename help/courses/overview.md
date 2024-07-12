@@ -1,6 +1,6 @@
 ---
-title: のビデオチュートリアル [!DNL Adobe Experience Manager Guides]
-description: 次のビデオチュートリアルを視聴する： [!DNL Adobe Experience Manager Guides]、AEM XML アドオン、AEM XML Plugin、AEM DoX、およびAEM Dox。
+title: ' [!DNL Adobe Experience Manager Guides] のビデオチュートリアル'
+description: ' [!DNL Adobe Experience Manager Guides]、AEM XML アドオン、AEM XML プラグイン、AEM DoX、AEM Dox に関するビデオチュートリアルをご覧ください。'
 exl-id: 4066431b-0838-45a6-b6b1-e366f210eb8d
 source-git-commit: 0c2a131c2e8125590e4b624d7fe16ebd1fbbce16
 workflow-type: tm+mt
@@ -11,22 +11,22 @@ ht-degree: 5%
 
 # AEM Guides のチュートリアル
 
-次のビデオベースのコースの場合は、このスペースをご覧ください。 [!DNL Adobe Experience Manager Guides].
+[!DNL Adobe Experience Manager Guides] 用のビデオベースのコースについては、このスペースをご覧ください。
 
 >[!NOTE]
 > 
-> Adobe Experience Managerガイドは、以前は「XML Documentation for Adobe Experience Manager」というブランド名でした。 ドキュメント内の特定の参照は、以前のブランディングを引き続き参照する場合がありますが、現在のオファーにはまだ適用できます。
+> Adobe Experience Manager Guidesは、以前は「Adobe Experience ManagerのXML Documentation」というブランドになっていました。 ドキュメント内の特定のリファレンスは、以前のブランディングを引き続き参照する場合がありますが、現在の製品にはそのまま適用されます。
 
 ## 新機能
 
 * **[[!DNL AEM Guides] オーサリングコース](course-3/overview.md)**
 
-  *の高度なユーザーガイド [!DNL AEM Guides] 編集者*
+  *[!DNL AEM Guides] Editor の高度なユーザーガイド*
 
-* **[[!DNL AEM Guides] 入門コース](course-1/overview.md)**
+* **[[!DNL AEM Guides] はじめる前に](course-1/overview.md)** コース
 
-  *でコンテンツを作成、整理、オーサリングおよび公開する方法について説明します。 [!DNL Adobe Experience Manager Guides].*
+  *[!DNL Adobe Experience Manager Guides] でコンテンツを作成、整理、オーサリングおよび公開する方法について説明します*。
 
-* **[次を使用した出力の生成 [!DNL AEM Guides]](course-2/overview.md)**
+* **[出力生成 [!DNL AEM Guides]](course-2/overview.md)**
 
-  *を使用して出力を生成する方法を説明します。 [!DNL Adobe Experience Manager Guides]. レポート、ベースライン、条件、トラブルシューティング、一括公開、アクティベーションなど、出力生成に使用できる様々な機能について説明します。*
+  *[!DNL Adobe Experience Manager Guides] を使用して出力を生成する方法を説明します。 レポート、ベースライン、条件、トラブルシューティング、一括公開、アクティベーションなど、出力の生成に使用できる様々な機能について説明します。*

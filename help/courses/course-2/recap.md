@@ -1,6 +1,6 @@
 ---
-title: 出力生成の概要 [!DNL AEM Guides]
-description: 出力生成の概要 [!DNL Adobe Experience Manager Guides]
+title: ' [!DNL AEM Guides] を使用した出力生成の概要'
+description: ' [!DNL Adobe Experience Manager Guides] を使用した出力生成の概要'
 exl-id: 624b53a4-a5c3-4066-a7b9-9a913ccde93d
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 # まとめ
 
-このコースでは、次の内容について学びました。
+このコースでは、次の内容について学習しました。
 
-- Map ダッシュボード
+- マップダッシュボード
 - レポートの操作
-- ベースラインを使用した作成および公開
+- ベースラインを使用した作成と公開
 - 条件を使用した公開
 - 出力プリセット
 - 公開エラーのトラブルシューティング

@@ -5,10 +5,10 @@ source-wordcount: '33'
 ht-degree: 0%
 
 ---
-# ファイルを移動しました
+# ファイルは移動しました
 
-「チュートリアル」セクションのファイルが、 `experience-manager-guides.en` repo:
+「チュートリアル」セクションのファイルは、`experience-manager-guides.en` リポジトリに含まれています。
 
 <https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
 
-この —learn リポジトリには、ビデオコンテンツのみを含める必要があります。 すべての製品ドキュメントが他のリポジトリに保存されました。
+この – learn リポジトリには、ビデオコンテンツのみを含める必要があります。 すべての製品ドキュメントは、もう一方のリポジトリに格納されています。
