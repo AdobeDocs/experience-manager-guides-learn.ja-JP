@@ -1,0 +1,109 @@
+{
+  "id": "editor_toolbar",
+  "view": {
+    "items": [
+      {
+        "extraclass": [],
+        "icon": "TableAdd",
+        "title": "Insert Table",
+        "elementid": "toolbar_insert_table",
+        "on-click": {
+          "name": "$$AUTHOR_INSERT_TABLE",
+          "args": {
+            "target": "toolbar_insert_table"
+          }
+        },
+        "key": "$$AUTHOR_INSERT_TABLE",
+        "targetEditor": {
+          "editor": [],
+          "mode": [
+            "author"
+          ]
+        }
+      },
+      {
+        "icon": "add",
+        "title": "Element",
+        "on-click": "$$AUTHOR_SHOW_INSERT_ELEMENT_UI",
+        "key": "$$AUTHOR_SHOW_INSERT_ELEMENT_UI",
+        "targetEditor": {
+          "editor": [
+            "bookmap",
+            "ditamap",
+            "subjectScheme"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+      },
+      {
+        "icon": "textNumbered",
+        "title": "Numbered List",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+      },
+      {
+        "icon": "textBulleted",
+        "title": "Insert Custom Bulleted List",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+      },
+      {
+        "icon": "table",
+        "title": "Insert Custom Table",
+        "on-click": {
+          "name": "$$AUTHOR_INSERT_ELEMENT",
+          "args": [
+            "simpletable",
+            "table",
+            "choicetable"
+          ]
+        },
+        "key": "$$AUTHOR_INSERT_ELEMENT",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+      },
+      {
+        "icon": "filePDF",
+        "title": "Export: PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        }
+      }
+    ]
+  }
+}
