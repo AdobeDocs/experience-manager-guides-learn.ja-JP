@@ -2,15 +2,15 @@
 user-guide-title: Adobe Experience Manager Guides チュートリアル
 user-guide-description: Adobe Experience Manager Guides のビデオコレクションです。
 breadcrumb-title: AEM Guides のチュートリアル
-source-git-commit: b78894069aa2b1279365d716332b5f6e2e3be865
+source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 18%
+source-wordcount: '130'
+ht-degree: 17%
 
 ---
 
 
-# [!DNL Adobe Experience Manager Guides] のTutorials {#videos}
+# [!DNL Adobe Experience Manager Guides] のチュートリアル {#videos}
 
 + [[!DNL AEM Guides] ビデオ](overview.md)
 + [!DNL AEM Guides] {#getting-started} の基本を学ぶ
@@ -22,7 +22,7 @@ ht-degree: 18%
    + [リストの操作](./course-1/working-with-lists.md)
    + [バージョンコンテンツ](./course-1/versioning-content.md)
    + [マップの作成](./course-1/creating-a-map.md)
-   + [Publishのデフォルト出力](./course-1/publishing-default-output.md)
+   + [デフォルト出力を公開](./course-1/publishing-default-output.md)
    + [まとめ](./course-1/recap.md)
 + [!DNL AEM Guides] {#output-generation} を使用した出力生成
    + [出力生成の概要](./course-2/overview.md)
@@ -38,6 +38,7 @@ ht-degree: 18%
    + [オーサリングの概要](./course-3/overview.md)
    + [ユーザーの環境設定、エディターの設定、エディターツールバー](./course-3/user-settings-preferences-toolbars.md)
    + [フォルダープロファイル](./course-3/folder-profiles.md)
+   + [UI 設定を変換](./course-3/conver-ui-config.md)
    + [エディター設定](./course-3/editor-configuration.md)
    + [パネル](./course-3/panels.md)
    + [アウトライン表示](./course-3/outline-view.md)

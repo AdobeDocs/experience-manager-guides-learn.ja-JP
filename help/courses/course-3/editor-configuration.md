@@ -2,9 +2,9 @@
 title: AEM Guides エディターの設定
 description: AEM Guides用のエディターの設定
 exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 988c288fc03e509a3a55e87b1e1ecd8fd07d1c92
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 これで、テキストエディターでコンテンツを開いて変更できるようになりました。 _AEM Guides インストールおよび設定_ ガイドには、UI 設定に対する関数の削除、カスタマイズ、追加方法のサンプルが含まれています。
 
-## 変更した XML エディター UI 設定のアップロード
+## 変更した XML エディター設定をアップロード
 
 UI 設定をカスタマイズしたら、アップロードできます。 サンプルの設定ファイル _ui-config-restricted-editor.json_ は、このレッスンのサポート トピックのセットとともに提供されています。
 
 1. フォルダープロファイル内で、「[!UICONTROL **XML エディター設定**]」タブをクリックします。
 
-1. 「XML エディター UI 設定」で、「[!UICONTROL **アップロード**]」をクリックします。
+1. 「XML エディター設定」で、「[!UICONTROL **アップロード**]」をクリックします。
 
    ![アップロード](images/lesson-4/upload.png)
 
