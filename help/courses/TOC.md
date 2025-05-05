@@ -13,7 +13,7 @@ ht-degree: 17%
 # [!DNL Adobe Experience Manager Guides] のチュートリアル {#videos}
 
 + [[!DNL AEM Guides] ビデオ](overview.md)
-+ [!DNL AEM Guides] {#getting-started} の基本を学ぶ
++ [!DNL AEM Guides] の基本を学ぶ {#getting-started}
    + [はじめに：概要](./course-1/overview.md)
    + [AEM ユーザーインターフェイスについて](./course-1/understanding-the-aem-user-interface.md)
    + [コンテンツの作成と構造化](./course-1/creating-and-structuring-content.md)
@@ -24,7 +24,7 @@ ht-degree: 17%
    + [マップの作成](./course-1/creating-a-map.md)
    + [デフォルト出力を公開](./course-1/publishing-default-output.md)
    + [まとめ](./course-1/recap.md)
-+ [!DNL AEM Guides] {#output-generation} を使用した出力生成
++ [!DNL AEM Guides] を使用した出力生成 {#output-generation}
    + [出力生成の概要](./course-2/overview.md)
    + [マップダッシュボードについて](./course-2/introduction-to-the-map-dashboard.md)
    + [レポートの操作](./course-2/working-with-reports.md)
@@ -34,7 +34,7 @@ ht-degree: 17%
    + [公開エラーのトラブルシューティング](./course-2/troubleshooting-publishing-errors.md)
    + [一括公開](./course-2/bulk-publishing.md)
    + [まとめ](./course-2/recap.md)
-+ [!DNL AEM Guides] Editor {#advanced-user-guide} を使用したオーサリング
++ [!DNL AEM Guides] Editor を使用したオーサリング {#advanced-user-guide}
    + [オーサリングの概要](./course-3/overview.md)
    + [ユーザーの環境設定、エディターの設定、エディターツールバー](./course-3/user-settings-preferences-toolbars.md)
    + [フォルダープロファイル](./course-3/folder-profiles.md)

@@ -67,7 +67,7 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
    ![ 新しい辞書ファイルの作成 ](images/lesson-11/new-dictionary-file.png)
 
-   c. ファイル名に _**user_dictionary.txt**_ と入力します。
+   c. ファイル名に _&#x200B;**user_dictionary.txt**&#x200B;_ と入力します。
 
    ![ ユーザー辞書のテキスト ](images/lesson-11/user-dictionary.png)
 
