@@ -1,9 +1,10 @@
 ---
 title: AEM Guides エディターの設定
 description: JSON 設定のカスタマイズと、新しいAEM Guides エディター用の UI 設定の変換。
-source-git-commit: ec6f5685d690e53e5c6eb29d6b61436833f62c68
+exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
+source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '1197'
 ht-degree: 0%
 
 ---
@@ -12,6 +13,9 @@ ht-degree: 0%
 
 古い UI から新しいAEM Guides UI に移行する際には、**ui_config** の更新をより柔軟なモジュール型 UI 設定に変換する必要があります。 このフレームワークは、変更を **editor_toolbar** および [other toolbar](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) にシームレスに導入するのに役立ちます。 このプロセスは、アプリケーション内の他のビューやウィジェットの変更もサポートしています。
 
+>[!NOTE]
+>
+>特定のボタンに適用されるカスタマイズは、拡張機能フレームワークへの移行中に問題が発生する場合があります。 この場合、このページを参照してサポートチケットを発行すると、迅速なサポートと解決が可能になります。
 
 ## 様々な画面での JSON の編集
 
@@ -38,24 +42,34 @@ ht-degree: 0%
 
 各 JSON は、一貫した構造に従います。
 
-1. **id**：コンポーネントのカスタマイズ先のウィジェットを指定します。
-1. **targetEditor**：エディターとモードのプロパティを使用して、ボタンを表示または非表示にするタイミングを定義します。
+1. `id`: コンポーネントをカスタマイズしているウィジェットを指定します。
+1. `targetEditor`：エディターとモードのプロパティを使用して、ボタンを表示または非表示にするタイミングを定義します。
 
-   現在、これらの **エディター** と **モード** はシステムにあります。
+   `targetEditor` では、次のオプションがサポートされています。
 
-   **editor**: ditamap、bookmap、subjectScheme、xml、css、translation、preset、pdf_preset
+   - `mode`
+   - `displayMode`
+   - `editor`
+   - `documentType`
+   - `documentSubType`
+   - `flag`
 
-   **モード**：オーサー、ソース、プレビュー、目次、分割
+   詳細については、「targetEditor プロパティについて [ を参照してください ](#understanding-targeteditor-properties)
 
-   （メモ：目次モードはレイアウトビューに適用されます）。
+   >[!NOTE]
+   >
+   > Experience Manager Guidesの 2506 リリースでは、`displayMode`、`documentType`、`documentSubType`、`flag` という新しいプロパティが導入されています。 これらのプロパティは、バージョン 2506 以降でのみサポートされます。 同様に、mode プロパティでの `toc` から `layout` への変更も、このリリース以降に適用されます。
+   >
+   > 既存の `editor` フィールドと共に、新しいフィールド `documentType` を使用できるようになりました。  両方のフィールドがサポートされており、必要に応じて使用できます。 ただし、実装間の一貫性を確保するために、特に `documentSubType` プロパティを使用する場合は、`documentType` を使用することをお勧めします。 `editor` フィールドは、後方互換性と既存の統合をサポートするために引き続き有効です。
 
-1. **target**：新しいコンポーネントを追加する場所を指定します。 一意の識別にキーと値のペアまたはインデックスを使用します。 ビューの状態は次のとおりです。
 
-   * **追加**：最後にを追加します。
+1. `target`：新しいコンポーネントの追加先を指定します。 一意の識別にキーと値のペアまたはインデックスを使用します。 ビューの状態は次のとおりです。
 
-   * **prepend**：先頭にを追加します。
+   - **追加**：最後にを追加します。
 
-   * **置換**：既存のコンポーネントを置換します。
+   - **prepend**：先頭にを追加します。
+
+   - **置換**：既存のコンポーネントを置換します。
 
 JSON 構造の例：
 
@@ -87,6 +101,140 @@ JSON 構造の例：
 ```
 
 <br>
+
+## `targetEditor` プロパティについて
+
+各プロパティの分類、目的、サポートされている値を次に示します。
+
+### `mode`
+
+エディターの操作モードを定義します。
+
+**サポートされている値**:`author`、`source`、`preview`、`layout` （以前は `toc`）、`split`
+
+### `displayMode` *（オプション）*
+
+UI コンポーネントの表示またはインタラクティブ機能をコントロールします。 指定しない場合、デフォルト値は `show` に設定されます。
+
+**サポートされている値**:`show`、`hide`、`enabled`、`disabled`
+
+例：
+
+```
+ {
+        "icon": "textBulleted",
+        "title": "Custom Insert Bulleted",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ],
+          "displayMode": "hide"
+        }
+      },
+```
+
+### `editor`
+
+エディターでプライマリドキュメントタイプを指定します。
+
+**サポートされている値**:`ditamap`、`bookmap`、`subjectScheme`、`xml`、`css`、`translation`、`preset`、`pdf_preset`
+
+### `documentType`
+
+プライマリドキュメントタイプを示します。
+
+**サポートされている値**:`dita`、`ditamap`、`bookmap`、`subjectScheme`、`css`、`preset`、`ditaval`、`reports`、`baseline`、`translation`、`html`、`markdown`、`conditionPresets`
+
+> 特定の使用例では、追加の値がサポートされている場合があります。
+
+例：
+
+```
+ {
+        "icon": "textNumbered",
+        "title": "Custom Numbered List",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "dita",
+            "ditamap"
+          ],
+          "mode": [
+            "author",
+            "source"
+          ]
+
+        }
+      },
+```
+
+### `documentSubType`
+
+`documentType` に基づいてドキュメントをさらに分類します。
+
+- **`preset`**:`pdf`、`html5`、`aemsite`、`nativePDF`、`json`、`custom`、`kb`
+- **`dita`**:`topic`、`reference`、`concept`、`glossary`、`task`、`troubleshooting`
+
+> 特定の使用例では、追加の値がサポートされている場合があります。
+
+例：
+
+```
+ {
+        "icon": "rename",
+        "title": "Custom Rename",
+        "on-click": "$$PUBLISH_PRESETS_RENAME",
+        "label": "Custom Rename",
+        "key": "$$PUBLISH_PRESETS_RENAME",
+        "targetEditor": {
+          "documentType": [
+            "preset"
+          ],
+          "documentSubType": [
+            "nativePDF",
+            "aemsite",
+            "json"
+          ]
+
+        }
+      },
+```
+
+### `flag`
+
+ドキュメントの状態または機能のブール値インジケーター。
+
+**サポートされている値**:`isOutputGenerated`、`isTemporaryFileDownloadable`、`isPDFDownloadable`、`isLocked`、`isUnlocked`、`isDocumentOpen`
+
+さらに、`targetEditor` でフラグとして利用されるカスタムフラグを `extensionMap` 内に作成することもできます。 ここで、`extensionMap` はカスタムキーまたは観察可能な値を追加するために使用されるグローバル変数です。
+
+例：
+
+```
+ {
+        "icon": "filePDF",
+        "title": "Custom Export pdf",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "documentType": [
+            "markdown"
+          ],
+          "mode": [
+            "preview"
+          ],
+          "flag": ["isPDFDownloadable"]
+
+        }
+      },
+```
+
 
 ## 例
 
@@ -188,6 +336,75 @@ JSON 構造の例：
 ![Youtube ボタン ](images/reuse/youtube-button.png)
 
 <br>
+
+### プレビューモードでのボタンの追加
+
+設計に従って、ボタンの表示はロックとロック解除（読み取り専用）モードで個別に管理され、明確で制御されたユーザーエクスペリエンスを維持します。 デフォルトでは、インターフェイスが読み取り専用モードの場合、新しく追加されたボタンは非表示になります。
+ボタンを **読み取り専用** モードで表示するには、インターフェイスがロックされていてもアクセス可能なツールバーサブセクション内にボタンを配置するターゲットを指定する必要があります。
+例えば、ターゲットを「**PDFとしてダウンロード**」として指定すると、ボタンが既存の表示可能なボタンと同じセクションに表示され、ロックが解除された状態でアクセスできるようになります。
+
+```json
+"target": {
+  "key": "label",
+  "value": "Download as PDF",
+  "viewState": "prepend"
+}
+```
+
+**プレビュー** モードで「**PDFとして書き出し** ボタンを追加すると、ロックモードとアンロックモードの両方で表示されます。
+
+```json
+{
+  "id": "editor_toolbar",
+  "view": {
+    "items": [
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Download as PDF",
+          "viewState": "prepend"
+        }
+      },
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
+
+次のスニペットは、ロックのシナリオを使用した **PDFとして書き出し** ボタンを示しています。
+
+![PDFとしてエクスポート ](images/reuse/lock.png)
+
+また、ロック解除シナリオを含む **PDFとして書き出し** ボタンは、以下のスニペットで確認できます。
+
+![PDFとしてエクスポート ](images/reuse/unlock.png)
 
 ## カスタマイズされた JSON のアップロード方法
 
