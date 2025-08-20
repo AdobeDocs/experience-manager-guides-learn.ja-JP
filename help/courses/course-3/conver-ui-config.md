@@ -2,9 +2,9 @@
 title: AEM Guides エディターの設定
 description: JSON 設定のカスタマイズと、新しいAEM Guides エディター用の UI 設定の変換。
 exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
-source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
+source-git-commit: 1ed48d543161be88becad9c0cd58014323aeda47
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    > Experience Manager Guidesの 2506 リリースでは、`displayMode`、`documentType`、`documentSubType`、`flag` という新しいプロパティが導入されています。 これらのプロパティは、バージョン 2506 以降でのみサポートされます。 同様に、mode プロパティでの `toc` から `layout` への変更も、このリリース以降に適用されます。
    >
-   > 既存の `editor` フィールドと共に、新しいフィールド `documentType` を使用できるようになりました。  両方のフィールドがサポートされており、必要に応じて使用できます。 ただし、実装間の一貫性を確保するために、特に `documentSubType` プロパティを使用する場合は、`documentType` を使用することをお勧めします。 `editor` フィールドは、後方互換性と既存の統合をサポートするために引き続き有効です。
+   > 既存の `documentType` フィールドと共に、新しいフィールド `editor` を使用できるようになりました。  両方のフィールドがサポートされており、必要に応じて使用できます。 ただし、実装間の一貫性を確保するために、特に `documentType` プロパティを使用する場合は、`documentSubType` を使用することをお勧めします。 `editor` フィールドは、後方互換性と既存の統合をサポートするために引き続き有効です。
 
 
 1. `target`：新しいコンポーネントの追加先を指定します。 一意の識別にキーと値のペアまたはインデックスを使用します。 ビューの状態は次のとおりです。
@@ -212,7 +212,7 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 
 **サポートされている値**:`isOutputGenerated`、`isTemporaryFileDownloadable`、`isPDFDownloadable`、`isLocked`、`isUnlocked`、`isDocumentOpen`
 
-さらに、`targetEditor` でフラグとして利用されるカスタムフラグを `extensionMap` 内に作成することもできます。 ここで、`extensionMap` はカスタムキーまたは観察可能な値を追加するために使用されるグローバル変数です。
+さらに、`extensionMap` でフラグとして利用されるカスタムフラグを `targetEditor` 内に作成することもできます。 ここで、`extensionMap` はカスタムキーまたは観察可能な値を追加するために使用されるグローバル変数です。
 
 例：
 
@@ -405,6 +405,94 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 また、ロック解除シナリオを含む **PDFとして書き出し** ボタンは、以下のスニペットで確認できます。
 
 ![PDFとしてエクスポート ](images/reuse/unlock.png)
+
+### エディターツールバーのメニュードロップダウンに表示されるオプションをカスタマイズします
+
+次の例を使用して、メニューのドロップダウンでカスタムオプションの追加、非表示、置換、追加を行うことができます。
+
+#### 追加
+
+メニュードロップダウンへのオプションの追加。 ここでは、メニューオプションに **カスタムメニューボタン** を追加します
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "targetEditor": {
+          "editor": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Version label",
+          "viewState": "append"
+        }
+      }
+```
+
+#### 置換中
+
+メニューのドロップダウンに表示されるオプションの置換。 ここでは、**レビュータスクを作成** を **カスタムメニューボタン 3** に置き換えます。
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button 3",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "target": {
+          "key": "label",
+          "value": "Create review task",
+          "viewState": "replace"
+        }
+
+      }
+```
+
+#### 非表示
+
+メニューのドロップダウンに表示されるオプションを非表示にします。 ここでは、メニューの **検索と置換** オプションを非表示にしています。
+
+```json
+{
+        "hide": true,
+        "target": {
+          "key": "label",
+          "value": "Find and replace",
+          "viewState": "replace"
+        }
+      }
+```
+
+#### サブメニューへのカスタムオプションの追加
+
+メニュードロップダウン内のサブメニューへのオプションの追加。
+
+```json
+{
+        "icon": "viewAllTags",
+        "title": "Toggle Tags View Goziamasu",
+        "key": "AUTHOR_TOGGLE_TAG_VIEW",
+        "target": {
+          "key": "label",
+          "value": "Track changes",
+          "viewState": "replace"
+        },
+        "targetEditor": {
+          "documentType": [
+            "dita"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+
+      }
+```
 
 ## カスタマイズされた JSON のアップロード方法
 
