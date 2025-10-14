@@ -30,7 +30,7 @@ Experience Manager用 XML エディターでのアセット、ファイル、フ
 
 1. 左側のパネルで「**[!UICONTROL リポジトリ表示]**」を選択します。
 
-   ![ リポジトリアイコン ](images/common/repository-icon.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/common/repository-icon.png)
 
    [!UICONTROL &#x200B; リポジトリ表示 &#x200B;] が表示されます。
 
@@ -44,13 +44,13 @@ Experience Manager用 XML エディターでのアセット、ファイル、フ
 
 1. リポジトリ内のフォルダーまたはトピックにポインタを合わせて、表示される省略記号アイコンを選択します。
 
-   ![ 省略記号アイコン ](images/lesson-2/options-menu-with-markings.png)
+   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-2/options-menu-with-markings.png)
 
    オプション メニューが表示されます。
 
 1. メニューから「**Assets UI で表示**」を選択します。
 
-   ![Assets UI で表示 ](images/lesson-2/assets-ui.png)
+   ![Assets UI で表示 &#x200B;](images/lesson-2/assets-ui.png)
 
 
 ### ビューの選択
@@ -59,7 +59,7 @@ Assets UI は、組織のニーズに最適な複数のビューから選択で�
 
 1. 右上隅にある **表示スイッチャー** アイコンを選択します。
 
-   ![ スイッチャーアイコンを表示 ](images/lesson-2/view-switcher.png)
+   ![&#x200B; スイッチャーアイコンを表示 &#x200B;](images/lesson-2/view-switcher.png)
 
    ドロップダウンメニューが表示されます。
 
@@ -88,6 +88,6 @@ XML エディターに戻ります。
 
 1. [!UICONTROL Assets] UI のトピックの鉛筆アイコンを選択します。
 
-   ![ 鉛筆アイコン ](images/lesson-2/return-card-view.png)
+   ![&#x200B; 鉛筆アイコン &#x200B;](images/lesson-2/return-card-view.png)
 
    XML エディターに戻ります。

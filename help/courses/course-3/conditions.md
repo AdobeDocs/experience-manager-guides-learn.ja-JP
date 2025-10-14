@@ -27,7 +27,7 @@ DITA では、多くの場合、条件は Product、Platform、Audience など�
 
 1. 「[!UICONTROL **追加**]」をクリックします。
 
-   ![ フォルダープロファイル内の条件 ](images/lesson-13/add-name.png)
+   ![&#x200B; フォルダープロファイル内の条件 &#x200B;](images/lesson-13/add-name.png)
 
 1. 必須フィールドに入力します。
 
@@ -65,11 +65,11 @@ DITA では、多くの場合、条件は Product、Platform、Audience など�
 
    a. ユーザー環境設定アイコンをクリックします。
 
-   ![ ユーザー環境設定アイコン ](images/lesson-13/user-prefs-icon.png)
+   ![&#x200B; ユーザー環境設定アイコン &#x200B;](images/lesson-13/user-prefs-icon.png)
 
    b. **ユーザーの環境設定** ダイアログの必須フィールドに入力します。 次に例を示します。
 
-   ![ ユーザー環境設定 ](images/lesson-13/user-preferences.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-13/user-preferences.png)
 
    c. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -85,13 +85,13 @@ DITA では、多くの場合、条件は Product、Platform、Audience など�
 
 1. サブジェクト スキームのダイヤマップを参照するマップを選択します。 この例では、_デザインとレイアウト_ と呼ばれるマップを使用します。
 
-   ![ ユーザー環境設定 ](images/lesson-13/subject-scheme-map.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-13/subject-scheme-map.png)
 
 1. ユーザーの環境設定を指定します。
 
    a. 「[!UICONTROL **ユーザー環境設定**]」アイコンをクリックします。
 
-   ![ ユーザー環境設定 ](images/lesson-13/user-prefs-icon-2.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-13/user-prefs-icon-2.png)
 
    b. **ユーザー環境設定** ダイアログのフィールドに入力します。
 
@@ -105,7 +105,7 @@ DITA では、多くの場合、条件は Product、Platform、Audience など�
    >
    >重要：選択したルートマップは、サブジェクトスキームを含むマップである必要があります。
 
-   ![ ユーザー環境設定 ](images/lesson-13/user-preferences-2.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-13/user-preferences-2.png)
 
    f.使用するフォルダーを選択して、表示するアセットを制限します。
 

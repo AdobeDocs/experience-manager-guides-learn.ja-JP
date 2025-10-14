@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. サブフォルダーにマウスポインターを置き、省略記号アイコンを選択して、オプションメニューを開きます。
 
-   ![ 省略記号アイコン ](images/lesson-4/ellipses.png)
+   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-4/ellipses.png)
 
 1. **[!UICONTROL Assetsをアップロード]** を選択します。
 
-   ![Assetsのアップロード ](images/lesson-4/upload-assets.png)
+   ![Assetsのアップロード &#x200B;](images/lesson-4/upload-assets.png)
 
 1. ローカルシステムからアップロードする画像を選択し、「**開く**」を選択します。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 1. **画像を挿入** アイコンを選択します。
 
-   ![ 画像を挿入アイコン ](images/lesson-4/insert-image.png)
+   ![&#x200B; 画像を挿入アイコン &#x200B;](images/lesson-4/insert-image.png)
 
    [ イメージ挿入 ] ダイアログ ボックスが表示されます。
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 1. **新しいバージョンとして保存** アイコンを選択します。
 
-   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
    **新しいバージョンとして保存** ダイアログボックスが表示されます。
 

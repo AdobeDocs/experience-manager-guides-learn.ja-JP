@@ -19,7 +19,7 @@ ht-degree: 1%
 
 1. **変更を追跡** ツールバーアイコンを切り替えて、機能を有効（または無効）にします。
 
-   ![ 変更のトラッキング ](images/lesson-12/track-changes-icon.png)
+   ![&#x200B; 変更のトラッキング &#x200B;](images/lesson-12/track-changes-icon.png)
 
 1. トピックを変更します。
 
@@ -27,11 +27,11 @@ ht-degree: 1%
 
 1. 右側の **変更履歴** アイコンを選択して、変更履歴パネルにアクセスします。
 
-   ![ すべて承認/拒否 ](images/lesson-12/accept-reject-all.png)
+   ![&#x200B; すべて承認/拒否 &#x200B;](images/lesson-12/accept-reject-all.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
-   ![ 保存アイコン ](images/lesson-12/save-icon.png)
+   ![&#x200B; 保存アイコン &#x200B;](images/lesson-12/save-icon.png)
 
 1. トピックを閉じます。
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
 1. 目的のフィルターのチェックボックスをオンにします。
 
-   ![ フィルター UI](images/lesson-12/filter.png)
+   ![&#x200B; フィルター UI](images/lesson-12/filter.png)
 
 1. 「[!UICONTROL **適用**]」をクリックします。
 
@@ -68,13 +68,13 @@ ht-degree: 1%
 
 1. 変更を承認または却下するには、変更に関連付けられている [!UICONTROL **サムズアップ**] アイコンまたは [!UICONTROL **サムズダウン**] アイコンをクリックします。
 
-   ![ 単一の UI を許可/拒否 ](images/lesson-12/accept-reject-single.png)
+   ![&#x200B; 単一の UI を許可/拒否 &#x200B;](images/lesson-12/accept-reject-single.png)
 
    または
 
    検索バーの上にある [!UICONTROL **サムズアップ**] アイコンまたは [!UICONTROL **サムズダウン**] アイコンをクリックして、すべての変更を承認または却下します。
 
-   ![ 単一の UI を許可/拒否 ](images/lesson-12/accept-reject-single.png)
+   ![&#x200B; 単一の UI を許可/拒否 &#x200B;](images/lesson-12/accept-reject-single.png)
 
 1. トピック「[!UICONTROL **保存**]」をクリックします。
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 
 1. ツールバーの [!UICONTROL **結合**] アイコンをクリックします。
 
-   ![ 結合アイコン ](images/lesson-12/merge-icon.png)
+   ![&#x200B; 結合アイコン &#x200B;](images/lesson-12/merge-icon.png)
 
 1. [ 合成 ] ダイアログ ボックスで、ファイルの現在のバージョンと比較するファイルのバージョンを選択します。
 

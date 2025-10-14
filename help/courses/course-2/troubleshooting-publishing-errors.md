@@ -19,7 +19,7 @@ ht-degree: 0%
 
 演習用のサンプルファイルはこちらからダウンロードできます。
 
-[ 演習 – ダウンロード ](assets/exercises/publishing-basic-to-advanced.zip)
+[&#x200B; 演習 – ダウンロード &#x200B;](assets/exercises/publishing-basic-to-advanced.zip)
 
 ## 公開エラーの一般的な原因
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 エラーは軽微で、ファイルが正常にパッケージ化されなかったことを知らせる単純な注記になったり、出力の生成に完全に失敗するほど重大なエラーになったりする場合があります。 「出力」タブには、出力の生成に関連する成功、エラーまたは失敗を示す色分けされたアイコンが表示されます。
 
-![ エラーの影響 ](images/error-impact.png)
+![&#x200B; エラーの影響 &#x200B;](images/error-impact.png)
 
 ## エラーログの表示と確認
 

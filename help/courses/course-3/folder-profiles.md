@@ -23,17 +23,17 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. 目的のプロファイルを選択します。 例えば、デフォルトプロファイルである「**グローバルプロファイル**」を選択します。
 
-   ![ グローバルプロファイル ](images/lesson-3/global-profile-tile.png)
+   ![&#x200B; グローバルプロファイル &#x200B;](images/lesson-3/global-profile-tile.png)
 
 ## グローバルプロファイルでの条件属性の編集
 
@@ -43,13 +43,13 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
 1. 画面の左上隅にある「[!UICONTROL **編集**]」をクリックします。
 
-   ![ 条件属性 ](images/lesson-3/edit-conditional-attributes.png)
+   ![&#x200B; 条件属性 &#x200B;](images/lesson-3/edit-conditional-attributes.png)
 
 1. 「[!UICONTROL **追加**]」をクリックします。
 
 1. 新しい条件の **名前**、**値** および **ラベル** フィールドに値を入力します。
 
-   ![ 新規条件 ](images/lesson-3/new-condition.png)
+   ![&#x200B; 新規条件 &#x200B;](images/lesson-3/new-condition.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 すべてのユーザーが新しい条件を使用できるようになりました。 コンテンツのプロパティパネルで選択し、必要に応じてコンテンツに適用できます。
@@ -60,13 +60,13 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. 「[!UICONTROL **作成**]」をクリックします。
 
@@ -78,7 +78,7 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
    c. 「[!UICONTROL **作成**]」をクリックします。
 
-   ![ フォルダープロファイルの作成 ](images/lesson-3/create-folder-profile.png)
+   ![&#x200B; フォルダープロファイルの作成 &#x200B;](images/lesson-3/create-folder-profile.png)
 
 新しいプロファイル名を含んだタイルがフォルダープロファイル ページに表示されます。
 
@@ -88,7 +88,7 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
 1. タイルをクリックして、目的のフォルダープロファイルを開きます。
 
-   ![ フォルダープロファイルを編集 ](images/lesson-3/edit-folder-profile.png)
+   ![&#x200B; フォルダープロファイルを編集 &#x200B;](images/lesson-3/edit-folder-profile.png)
 
 1. 「**一般**」タブを選択します。
 
@@ -100,7 +100,7 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
    必要に応じて、複数の管理者ユーザーを追加できます。
 
-   ![ 管理者を追加 ](images/lesson-3/add-admin.png)
+   ![&#x200B; 管理者を追加 &#x200B;](images/lesson-3/add-admin.png)
 
 1. すべてのユーザーを追加したら、画面の右上隅にある「[!UICONTROL **保存**]」をクリックします。
 
@@ -114,7 +114,7 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
 1. 画面の左上隅にある「[!UICONTROL **編集**]」をクリックします。
 
-   ![ 条件属性の編集 2](images/lesson-3/edit-conditional-attributes-2.png)
+   ![&#x200B; 条件属性の編集 2](images/lesson-3/edit-conditional-attributes-2.png)
 
 1. 「[!UICONTROL **追加**]」をクリックします。
 
@@ -122,7 +122,7 @@ AEMから設定ツールにすばやくアクセスできます。 フォルダ�
 
    [!UICONTROL **プラス**] 記号をクリックすると、名前付き属性に値とラベルのペアを追加できます。
 
-   ![ 条件を追加 ](images/lesson-3/add-conditions.png)
+   ![&#x200B; 条件を追加 &#x200B;](images/lesson-3/add-conditions.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 
@@ -142,13 +142,13 @@ AEM Guidesには、すぐに使用できるオーサリングテンプレート�
 
    b. 「[!UICONTROL **追加**]」をクリックします。
 
-   ![ マップ テンプレート ](images/lesson-3/map-templates.png)
+   ![&#x200B; マップ テンプレート &#x200B;](images/lesson-3/map-templates.png)
 
 1. トピック テンプレートを追加します。
 
    a. **トピックテンプレート** ドロップダウンで、使用可能なテンプレートからオプションを選択します。
 
-   ![ トピック テンプレート ](images/lesson-3/topic-templates.png)
+   ![&#x200B; トピック テンプレート &#x200B;](images/lesson-3/topic-templates.png)
 
 1. 「[!UICONTROL **追加**]」をクリックします。
 
@@ -166,7 +166,7 @@ AEM Guidesには、すぐに使用できるオーサリングテンプレート�
 
 1. 左側のパネルで、不要なプリセットのチェックボックスをオンにします。
 
-   ![ プリセットを削除 ](images/lesson-3/delete-presets.png)
+   ![&#x200B; プリセットを削除 &#x200B;](images/lesson-3/delete-presets.png)
 
 1. 画面の左上隅にある [!UICONTROL **プリセットを削除**] をクリックします。
 
@@ -182,7 +182,7 @@ AEM Guidesには、すぐに使用できるオーサリングテンプレート�
 
 1. 「XML エディタースニペット」の下の「[!UICONTROL **アップロード**]」をクリックします。
 
-   ![ スニペットのアップロード ](images/lesson-3/upload-snippet.png)
+   ![&#x200B; スニペットのアップロード &#x200B;](images/lesson-3/upload-snippet.png)
 
 1. 以前に作成したスニペットに移動します。
 
@@ -202,11 +202,11 @@ AEM Guidesには、すぐに使用できるオーサリングテンプレート�
 
 1. 上部ツールバーの [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ ユーザー環境設定 ](images/lesson-3/hr-user-prefs.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-3/hr-user-prefs.png)
 
 1. ユーザーの環境設定ダイアログで、目的のフォルダープロファイルをドロップダウンから選択します。
 
-   ![ ユーザー環境設定の選択 ](images/lesson-3/select-user-pref.png)
+   ![&#x200B; ユーザー環境設定の選択 &#x200B;](images/lesson-3/select-user-pref.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 

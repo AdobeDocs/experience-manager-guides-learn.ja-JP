@@ -23,13 +23,13 @@ ht-degree: 0%
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. フォルダープロファイルを選択します。
 
@@ -53,7 +53,7 @@ UI 設定をカスタマイズしたら、アップロードできます。 サ�
 
 1. 変更した UI 設定のファイル、または以下に示すように、提供されたサンプルファイルをダブルクリックします。
 
-   ![ サンプル設定ファイル ](images/lesson-4/sample-config-file.png)
+   ![&#x200B; サンプル設定ファイル &#x200B;](images/lesson-4/sample-config-file.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 
@@ -65,13 +65,13 @@ UI 設定と同様に、CSS テンプレートレイアウトをダウンロー�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. フォルダープロファイルを選択します。
 
@@ -79,7 +79,7 @@ UI 設定と同様に、CSS テンプレートレイアウトをダウンロー�
 
 1. 「CSS テンプレートレイアウト」で、「[!UICONTROL **ダウンロード**]」をクリックします。
 
-   ![CSS をダウンロード ](images/lesson-4/download-css.png)
+   ![CSS をダウンロード &#x200B;](images/lesson-4/download-css.png)
 
 CSS コンテンツをテキストエディターで変更して保存できるようになりました。
 
@@ -91,11 +91,11 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. 「CSS テンプレートレイアウト」で、「[!UICONTROL **アップロード**]」をクリックします。
 
-   ![CSS をアップロード ](images/lesson-4/upload-css.png)
+   ![CSS をアップロード &#x200B;](images/lesson-4/upload-css.png)
 
 1. 独自のカスタム CSS レイアウトまたは提供されたサンプルファイルのファイルをダブルクリックします。
 
-   ![ サンプル CSS ファイル ](images/lesson-4/sample-css-file.png)
+   ![&#x200B; サンプル CSS ファイル &#x200B;](images/lesson-4/sample-css-file.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 カスタマイズされた CSS テンプレートレイアウトが正常にアップロードされました。
@@ -106,13 +106,13 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. フォルダープロファイルを選択します。
 
@@ -120,11 +120,11 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. 「XML エディタースニペット」の下の「**アップロード**」をクリックします。
 
-   ![ スニペットのアップロード ](images/lesson-4/upload-snippets.png)
+   ![&#x200B; スニペットのアップロード &#x200B;](images/lesson-4/upload-snippets.png)
 
 1. 独自のスニペットを選択するか、提供されているサンプルを使用します。
 
-   ![ サンプルスニペット ](images/lesson-4/sample-snippet.png)
+   ![&#x200B; サンプルスニペット &#x200B;](images/lesson-4/sample-snippet.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 
@@ -136,13 +136,13 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools-icon.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools-icon.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. フォルダープロファイルを選択します。
 
@@ -150,7 +150,7 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. [XML コンテンツ バージョン ラベル ] で、[[!UICONTROL **ダウンロード**]] をクリックします。
 
-   ![ ラベルをダウンロード ](images/lesson-4/download-labels.png)
+   ![&#x200B; ラベルをダウンロード &#x200B;](images/lesson-4/download-labels.png)
 
 これで、必要に応じてラベルをカスタマイズできるようになりました。
 
@@ -162,11 +162,11 @@ CSS テンプレートレイアウトをカスタマイズしたら、アップ�
 
 1. 「XML コンテンツバージョンラベル」で、「[!UICONTROL **アップロード**]」をクリックします。
 
-   ![ ラベルをアップロード ](images/lesson-4/upload-labels.png)
+   ![&#x200B; ラベルをアップロード &#x200B;](images/lesson-4/upload-labels.png)
 
 1. 独自のカスタムラベルのファイルまたは提供されたサンプルファイル（ここでは）をダブルクリックします。
 
-   ![ サンプルラベルファイル ](images/lesson-4/sample-labels-file.png)
+   ![&#x200B; サンプルラベルファイル &#x200B;](images/lesson-4/sample-labels-file.png)
 
 1. 画面の左上隅にある「[!UICONTROL **保存**]」をクリックします。
 

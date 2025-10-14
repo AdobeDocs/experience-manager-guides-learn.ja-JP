@@ -13,11 +13,11 @@ ht-degree: 0%
 
 この一連のチュートリアルでは、次の操作を行う方法を学習します。
 
-- [ マップダッシュボードについて ](./introduction-to-the-map-dashboard.md)
-- [ レポートの操作 ](./working-with-reports.md)
-- [ ベースラインを使用した作成と公開 ](./creating-and-publishing-with-baselines.md)
-- [ 条件のPublish](./publishing-with-conditions.md)
-- [ 出力プリセットについて ](./output-presets.md)
-- [ 公開エラーのトラブルシューティング ](./troubleshooting-publishing-errors.md)
-- [ 一括公開 ](./bulk-publishing.md)
-- [ まとめ ](./recap.md)
+- [&#x200B; マップダッシュボードについて &#x200B;](./introduction-to-the-map-dashboard.md)
+- [&#x200B; レポートの操作 &#x200B;](./working-with-reports.md)
+- [&#x200B; ベースラインを使用した作成と公開 &#x200B;](./creating-and-publishing-with-baselines.md)
+- [&#x200B; 条件のPublish](./publishing-with-conditions.md)
+- [&#x200B; 出力プリセットについて &#x200B;](./output-presets.md)
+- [&#x200B; 公開エラーのトラブルシューティング &#x200B;](./troubleshooting-publishing-errors.md)
+- [&#x200B; 一括公開 &#x200B;](./bulk-publishing.md)
+- [&#x200B; まとめ &#x200B;](./recap.md)

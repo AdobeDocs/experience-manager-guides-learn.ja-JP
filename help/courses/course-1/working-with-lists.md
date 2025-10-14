@@ -23,7 +23,7 @@ ht-degree: 1%
 
 1. ツールバーから **箇条書きを挿入** アイコンを選択します。
 
-   ![ 箇条書き挿入アイコン ](images/lesson-6/insert-bulleted-list.png)
+   ![&#x200B; 箇条書き挿入アイコン &#x200B;](images/lesson-6/insert-bulleted-list.png)
 
    箇条書きが表示されます。 これがリストの先頭です。
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
 1. ツールバーから **番号付きリストを挿入** アイコンを選択します。
 
-   ![ 番号付きリストの挿入アイコン ](images/lesson-6/insert-numbered-list.png)
+   ![&#x200B; 番号付きリストの挿入アイコン &#x200B;](images/lesson-6/insert-numbered-list.png)
 
    数値が表示されます。 これがリストの先頭です。
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 1. **新しいバージョンとして保存** アイコンを選択します。
 
-   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
 1. 「新しいバージョンのコメント」フィールドに、変更の概要を入力します。
 1. 「バージョンラベル」フィールドに、関連するラベルを入力します。

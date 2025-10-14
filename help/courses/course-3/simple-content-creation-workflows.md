@@ -21,7 +21,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. 画像をトピックに直接ドラッグ&amp;ドロップします。 **Assetsをアップロード** ダイアログが表示されます。
 
-   ![Assetsをアップロードダイアログ ](images/lesson-15/upload-assets-dialog.png)
+   ![Assetsをアップロードダイアログ &#x200B;](images/lesson-15/upload-assets-dialog.png)
 
 1. フォルダーパスを目的の画像の場所に変更します。
 
@@ -45,7 +45,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
    - その他の属性
 
-   ![ コンテンツのプロパティ ](images/lesson-15/content-properties.png)
+   ![&#x200B; コンテンツのプロパティ &#x200B;](images/lesson-15/content-properties.png)
 
 ## 複数のトピックの操作
 
@@ -59,7 +59,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. **右** を選択します。
 
-   ![ 分割ビュー ](images/lesson-15/split-view.png)
+   ![&#x200B; 分割ビュー &#x200B;](images/lesson-15/split-view.png)
 
 ## 誤字脱字を修正する
 
@@ -81,7 +81,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. トピックの上にある [!UICONTROL **PDFアイコン**] クリックします。 ダイアログが表示されます。
 
-   ![PDFのエクスポート ](images/lesson-15/pdf-export.png)
+   ![PDFのエクスポート &#x200B;](images/lesson-15/pdf-export.png)
 
 1. 必要に応じて、**変換名** または **DITA-OT コマンドライン引数** の情報を入力します。 すべてのフィールドが空白のままの場合でも、PDFが生成されることに注意してください。
 
@@ -107,11 +107,11 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. 左上のメニューで **リポジトリ** アイコンをクリックします。
 
-   ![ リポジトリアイコン ](images/lesson-15/repository-icon.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/lesson-15/repository-icon.png)
 
 1. ダイアログで、「新しいバージョンのコメント **を追加し** す。
 
-   ![ 新しいバージョンダイアログ ](images/lesson-15/version-dialog.png)
+   ![&#x200B; 新しいバージョンダイアログ &#x200B;](images/lesson-15/version-dialog.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -129,7 +129,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
    b. 「XML コンテンツバージョンラベル」で、新しいトピックを追加するか、既存のトピックを使用します。
 
-   ![ コンテンツバージョンのラベル ](images/lesson-15/version-labels.png)
+   ![&#x200B; コンテンツバージョンのラベル &#x200B;](images/lesson-15/version-labels.png)
 
 1. [!UICONTROL **アップロード**] を選択します。
 
@@ -149,13 +149,13 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. 現在のトピックの左上にある [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ フォルダープロファイル ](images/lesson-15/folder-profile-icon.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/lesson-15/folder-profile-icon.png)
 
 1. バージョンラベルが以前に読み込まれていたのと同じフォルダープロファイルを選択します。
 
 1. ユーザーの環境設定ダイアログで、ベースパスがフォルダープロファイルが適用された情報と同じ情報を参照していることを確認します。
 
-   ![ ユーザー環境設定 ](images/lesson-15/user-preferences.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/lesson-15/user-preferences.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -163,7 +163,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. コメントを追加し、ドロップダウンからバージョンラベルを選択します。
 
-   ![ 新規バージョンラベル ダイアログ ](images/lesson-15/labels-dialog.png)
+   ![&#x200B; 新規バージョンラベル ダイアログ &#x200B;](images/lesson-15/labels-dialog.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -181,7 +181,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
    - ラベル付きのバージョン履歴が左側に表示されます。
 
-   ![ バージョン履歴 ](images/lesson-15/version-history.png)
+   ![&#x200B; バージョン履歴 &#x200B;](images/lesson-15/version-history.png)
 
 1. バージョンをクリックして、「このバージョンに戻る **や** プレビューバージョン **などのオプションにアクセス** ます。
 
@@ -195,7 +195,7 @@ AEM Guides エディターには、コンテンツ作成ワークフローを簡
 
 1. クリックして新しいテンプレートを追加します。
 
-   ![ 新規トピック テンプレート ](images/lesson-15/version-history.png)
+   ![&#x200B; 新規トピック テンプレート &#x200B;](images/lesson-15/version-history.png)
 
 1. 表示されたダイアログでフィールドに値を入力します。
 

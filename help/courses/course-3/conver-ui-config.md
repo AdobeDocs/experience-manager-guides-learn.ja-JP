@@ -54,7 +54,7 @@ ht-degree: 0%
    - `documentSubType`
    - `flag`
 
-   詳細については、「targetEditor プロパティについて [ を参照してください ](#understanding-targeteditor-properties)
+   詳細については、「targetEditor プロパティについて [&#x200B; を参照してください &#x200B;](#understanding-targeteditor-properties)
 
    >[!NOTE]
    >
@@ -277,7 +277,7 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 }
 ```
 
-![ カスタムテーブルの挿入 ](images/reuse/insert-custom-table.png)
+![&#x200B; カスタムテーブルの挿入 &#x200B;](images/reuse/insert-custom-table.png)
 
 ### ボタンの削除
 
@@ -333,7 +333,7 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 }
 ```
 
-![Youtube ボタン ](images/reuse/youtube-button.png)
+![Youtube ボタン &#x200B;](images/reuse/youtube-button.png)
 
 <br>
 
@@ -400,11 +400,11 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 
 次のスニペットは、ロックのシナリオを使用した **PDFとして書き出し** ボタンを示しています。
 
-![PDFとしてエクスポート ](images/reuse/lock.png)
+![PDFとしてエクスポート &#x200B;](images/reuse/lock.png)
 
 また、ロック解除シナリオを含む **PDFとして書き出し** ボタンは、以下のスニペットで確認できます。
 
-![PDFとしてエクスポート ](images/reuse/unlock.png)
+![PDFとしてエクスポート &#x200B;](images/reuse/unlock.png)
 
 ### エディターツールバーのメニュードロップダウンに表示されるオプションをカスタマイズします
 
@@ -499,14 +499,14 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 1. **XML エディター設定** タブの上部バーにある **編集** をクリックします。
 1. **XML エディター UI 設定** サブセクションに「**アップロード** ボタンが表示されるようになりました。
 
-   ![ アップロードボタン ](images/reuse/ui-config-upload.png){width="400" height="150"}
+   ![&#x200B; アップロードボタン &#x200B;](images/reuse/ui-config-upload.png){width="400" height="150"}
 
 1. 変更した json をクリックしてアップロードできます。 （アップロードする json は、カスタマイズするウィジェットの ID と同じ名前にする必要があります）
 1. アップロードが完了したら、上部のバーの **保存** をクリックします。
 
    アップロードしたファイルごとに、JSON を **削除** して UI からカスタマイズを削除したり、**ダウンロード** して再び表示または変更したりすることもできます。
 
-   ![ ダウンロードボタン ](images/reuse/download-delete-json.png){width="400" height="150"}
+   ![&#x200B; ダウンロードボタン &#x200B;](images/reuse/download-delete-json.png){width="400" height="150"}
 
 <br>
 
@@ -540,14 +540,14 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 1. **XML エディター設定** タブの上部バーにある **編集** をクリックします。
 1. **XML エディターのページレイアウト** サブセクションに「**アップロード** ボタンが表示されるようになりました。
 
-   ![ アップロードボタン ](images/reuse/page-layout-upload.png){width="400" height="150"}
+   ![&#x200B; アップロードボタン &#x200B;](images/reuse/page-layout-upload.png){width="400" height="150"}
 
 1. をクリックして、変更した css をアップロードできます。 （css ファイルのみサポートされています）
 1. アップロードが完了したら、上部のバーの **保存** をクリックします。
 
    アップロードしたファイルごとに、CSS を **削除** して UI からカスタマイズを削除したり、**ダウンロード** して再び表示または変更したりすることもできます。
 
-   ![ ダウンロードボタン ](images/reuse/download-delete-css.png){width="400" height="150"}
+   ![&#x200B; ダウンロードボタン &#x200B;](images/reuse/download-delete-css.png){width="400" height="150"}
 
 
 <br>
@@ -557,7 +557,7 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 ここでは、**editor_toolbar** に新しいボタン **Insert Custom Table** を追加して、プレビューモードでのみ表示されるシンプルなテーブルを追加し、そのテーブルにカスタム CSS を適用します。
 この css は、ボタンの背景とタイトルのフォントサイズを変更します。
 
-![CSS の例 ](images/reuse/css-customization.png)
+![CSS の例 &#x200B;](images/reuse/css-customization.png)
 
 
 ```css
@@ -591,13 +591,13 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 
 1. ナビゲーション画面で、「[!UICONTROL **ツール**]」アイコンをクリックします。
 
-   ![ ツールアイコン ](images/reuse/tools.png)
+   ![&#x200B; ツールアイコン &#x200B;](images/reuse/tools.png)
 
 1. 左側のパネルで「**ガイド**」を選択します。
 
 1. [!UICONTROL **フォルダープロファイル**] タイルをクリックします。
 
-   ![ フォルダープロファイル ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; フォルダープロファイル &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. フォルダープロファイルを選択します。
 
@@ -605,9 +605,9 @@ UI コンポーネントの表示またはインタラクティブ機能をコ�
 
 1. 「**UI 設定を JSON に変換**」ボタンをクリックできます。 これにより、**ui_config** で行われた変更を含む **editor_toolbar** と **map_console_action_bar** json が生成されます。
 
-   ![UI 設定を JSON に変換 ](images/reuse/convert-ui-config-json.png)
+   ![UI 設定を JSON に変換 &#x200B;](images/reuse/convert-ui-config-json.png)
 
-1. [ エディターツールバー ](assets/editor_toolbar.json) および [ マップコンソールのアクションバー用に、サンプルで生成されたジョブをチェックアウト ](assets/map_console_action_bar.json) きます。
+1. [&#x200B; エディターツールバー &#x200B;](assets/editor_toolbar.json) および [&#x200B; マップコンソールのアクションバー用に、サンプルで生成されたジョブをチェックアウト &#x200B;](assets/map_console_action_bar.json) きます。
 
 
 >[!NOTE]

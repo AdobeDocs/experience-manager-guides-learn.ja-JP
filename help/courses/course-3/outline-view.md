@@ -21,9 +21,9 @@ ht-degree: 0%
 
 1. 適切なアイコンをクリックして、アウトラインビューを展開または折りたたみます。
 
-   ![ 基準概要 ](images/lesson-6/outline-collapsed-before.png)
+   ![&#x200B; 基準概要 &#x200B;](images/lesson-6/outline-collapsed-before.png)
 
-   ![ 「参照アウトライン」サブタブ ](images/lesson-6/outline-expanded-after.png)
+   ![&#x200B; 「参照アウトライン」サブタブ &#x200B;](images/lesson-6/outline-expanded-after.png)
 
 アウトライン表示が展開から縮小に切り替わります。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 要素の横にある [!UICONTROL **省略記号**] をクリックして、ショートカットオプションにアクセスします。
 
-   ![ コンテキストメニュー ](images/lesson-6/shortcut-options.png)
+   ![&#x200B; コンテキストメニュー &#x200B;](images/lesson-6/shortcut-options.png)
 
 ## アウトライン・ビューを使用した ID の割当て
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. 「**ID を生成**」を選択します。
 
-   ![ 省略記号コンテキストメニュー ](images/lesson-6/ellipsis-popup.png)
+   ![&#x200B; 省略記号コンテキストメニュー &#x200B;](images/lesson-6/ellipsis-popup.png)
 
 ID が割り当てられます。 コンテンツのプロパティが更新され、要素と属性の情報が表示されます。
 
@@ -67,7 +67,7 @@ ID が割り当てられます。 コンテンツのプロパティが更新さ�
 
 1. **要素名を変更** を選択します。
 
-   ![ 要素名の変更の右クリック メニュー ](images/lesson-6/rename-before.png)
+   ![&#x200B; 要素名の変更の右クリック メニュー &#x200B;](images/lesson-6/rename-before.png)
 
 1. 新しい要素名をダブルクリックします。
 
@@ -97,6 +97,6 @@ ID が割り当てられます。 コンテンツのプロパティが更新さ�
 
 1. 検索する要素の名前を検索バーに入力します。
 
-   ![ 検索バー ](images/lesson-6/search-bar.png)
+   ![&#x200B; 検索バー &#x200B;](images/lesson-6/search-bar.png)
 
 1. ニーズに最も適した結果を選択します。

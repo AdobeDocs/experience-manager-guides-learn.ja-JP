@@ -38,7 +38,7 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. [!UICONTROL **トピックを編集**] をクリックします。
 
-   ![ トピック UI の編集 ](images/lesson-14/edit-topics.png)
+   ![&#x200B; トピック UI の編集 &#x200B;](images/lesson-14/edit-topics.png)
 
 または
 
@@ -59,7 +59,7 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. 該当する [!UICONTROL **ツールバーアイコン**] をクリックして、チャプター、トピックまたはトピックを追加します。
 
-   ![ ツールバーアイコン ](images/lesson-14/toolbar-icons.png)
+   ![&#x200B; ツールバーアイコン &#x200B;](images/lesson-14/toolbar-icons.png)
 
 1. 追加する 1 つ以上のAssetsを選択します。
 
@@ -73,7 +73,7 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. [!UICONTROL **左矢印**] をクリックして topicref をチャプターに昇格させるか、[!UICONTROL **右矢印**] をクリックしてチャプターを topicref に降格させます。
 
-   ![ 矢印アイコン ](images/lesson-14/toolbar-arrows.png)
+   ![&#x200B; 矢印アイコン &#x200B;](images/lesson-14/toolbar-arrows.png)
 
 1. 必要に応じて、マップを保存してバージョンを設定します。
 
@@ -85,13 +85,13 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. **マップ ツールバー** から、topicgroup を挿入します。
 
-   ![ 属性を追加 ](images/lesson-14/add-topicgroup.png)
+   ![&#x200B; 属性を追加 &#x200B;](images/lesson-14/add-topicgroup.png)
 
 1. [!UICONTROL **プラスアイコン**] をクリックして、要素を挿入します。
 
 1. 挿入する要素を選択します。
 
-   ![ メタデータを挿入 ](images/lesson-14/insert-metadata.png)
+   ![&#x200B; メタデータを挿入 &#x200B;](images/lesson-14/insert-metadata.png)
 
 1. 「[!UICONTROL **閉じる**]」をクリックします。
 
@@ -103,7 +103,7 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. **ツールバーアイコン** を使用して、関連可能なをマップに追加します。
 
-   ![ 関係のあるアイコン ](images/lesson-14/reltable-icon.png)
+   ![&#x200B; 関係のあるアイコン &#x200B;](images/lesson-14/reltable-icon.png)
 
 1. ダイアログの設定
 
@@ -119,4 +119,4 @@ AEM Guidesには、DITA マップとブックマップという 2 つの標準�
 
 1. コンテンツのプロパティパネルの「その他の属性」で、**属性** とその **値** を選択します。
 
-   ![ 属性を追加 ](images/lesson-14/add-attribute.png)
+   ![&#x200B; 属性を追加 &#x200B;](images/lesson-14/add-attribute.png)

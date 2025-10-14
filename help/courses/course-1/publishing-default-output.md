@@ -21,13 +21,13 @@ ht-degree: 0%
 
 1. リポジトリで、マップの省略記号アイコンを選択して [ オプション ] メニューを開き、&lbrack; マップ ダッシュボードで開く **をクリックします。**
 
-   ![ マップダッシュボードで開く ](images/lesson-9/map-dashboard-with-markings.png)
+   ![&#x200B; マップダッシュボードで開く &#x200B;](images/lesson-9/map-dashboard-with-markings.png)
 
    マップダッシュボードが別のタブで開きます。
 
 1. 「出力プリセット」タブで、「AEM サイトとPDF」を選択します。
 
-   ![ 出力プリセット ](images/lesson-9/pdf-aem.png)
+   ![&#x200B; 出力プリセット &#x200B;](images/lesson-9/pdf-aem.png)
 
 1. 「**生成**」を選択します。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    緑色の円は、生成が完了したことを示します。
 
-   ![ 出力生成の完了 ](images/lesson-9/green-circle.png)
+   ![&#x200B; 出力生成の完了 &#x200B;](images/lesson-9/green-circle.png)
 
 ## AEM サイトの出力
 

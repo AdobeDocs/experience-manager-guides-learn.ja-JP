@@ -19,7 +19,7 @@ ht-degree: 4%
 
 演習用のサンプルファイルはこちらからダウンロードできます。
 
-[ 演習 – ダウンロード ](assets/exercises/publishing-with-conditions.zip)
+[&#x200B; 演習 – ダウンロード &#x200B;](assets/exercises/publishing-with-conditions.zip)
 
 ## 条件付き属性を持つコンテンツのマークアップ
 
@@ -31,7 +31,7 @@ ht-degree: 4%
 
 1. 条件付き属性を割り当てる特定のコンテンツを選択します。 例えば、ソース内の 1 つの段落など。
 
-   ![ テンプレートの選択 ](images/template-choice.png)
+   ![&#x200B; テンプレートの選択 &#x200B;](images/template-choice.png)
 
 1. 右側のパネルにプロパティが表示されていることを確認します。
 

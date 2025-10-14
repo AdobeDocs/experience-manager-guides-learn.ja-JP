@@ -19,11 +19,11 @@ ht-degree: 0%
 
 1. **リポジトリ** アイコンを選択して、フォルダーとファイルを表示します。
 
-   ![ リポジトリアイコン ](images/common/repository-icon.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/common/repository-icon.png)
 
 1. **+** アイコンと **フォルダー** を選択します。
 
-   ![+ アイコン ](images/lesson-3/+-icon.png)
+   ![+ アイコン &#x200B;](images/lesson-3/+-icon.png)
 
 1. フォルダーにタイトルを付けます。
 1. 「**作成**」を選択します。
@@ -35,12 +35,12 @@ ht-degree: 0%
 
 1. リポジトリの新しいフォルダーにポインタを合わせ、表示される省略記号アイコンを選択します。
 
-   ![ 省略記号アイコン ](images/lesson-3/ellipses-icon.png)
+   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-3/ellipses-icon.png)
 
    オプション メニューが表示されます。
 
 1. **作成\> フォルダ** を選択します。
-   ![ サブフォルダーの作成 ](images/lesson-3/create-subfolder-with-markings.png)
+   ![&#x200B; サブフォルダーの作成 &#x200B;](images/lesson-3/create-subfolder-with-markings.png)
 
 1. サブフォルダーにタイトル（「images」など）を付けて、「作成 **を選択し** す。
 
@@ -48,25 +48,25 @@ ht-degree: 0%
 
 1. リポジトリの親フォルダーにマウスポインターを置き、省略記号アイコンを選択します。
 
-   ![ 省略記号アイコン ](images/lesson-3/ellipses-icon.png)
+   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-3/ellipses-icon.png)
 
    オプションメニューが表示されます。
 
 1. **作成\> トピック** を選択します。
 
-   ![ 新しいトピックの作成 ](images/lesson-3/create-topic-with-markings.png)
+   ![&#x200B; 新しいトピックの作成 &#x200B;](images/lesson-3/create-topic-with-markings.png)
 
    新規トピックを作成ダイアログが表示されます。
 
 1. ダイアログのテンプレート ドロップダウンメニューから、「**概念**」を選択します。
 
-   ![ テンプレートドロップダウン ](images/lesson-3/dropdown-with-markings.png)
+   ![&#x200B; テンプレートドロップダウン &#x200B;](images/lesson-3/dropdown-with-markings.png)
 
 1. 概念にタイトルを付け、「作成 **を選択し** す。
 
    新しい概念が、そのタイトルが入力された状態でエディターに表示されます。
 
-   ![ 新しい概念 ](images/lesson-3/new-concept.png)
+   ![&#x200B; 新しい概念 &#x200B;](images/lesson-3/new-concept.png)
 
 1. 短い説明または段落をクリックしてコンテンツを入力することで、概念を入力します。
 
@@ -78,13 +78,13 @@ ht-degree: 0%
 
 1. **保存** アイコンを選択します。
 
-   ![ 保存アイコン ](images/common/save.png)
+   ![&#x200B; 保存アイコン &#x200B;](images/common/save.png)
 
 ### 新しいバージョンとして保存
 
 1. 「保存」アイコンの右側にある **新しいバージョンとして保存** アイコンを選択します。
 
-   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
    [ 新しいバージョンとして保存 ] ダイアログ ボックスが表示されます。
 

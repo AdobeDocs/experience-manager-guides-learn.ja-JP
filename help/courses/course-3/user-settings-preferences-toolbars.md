@@ -21,7 +21,7 @@ ht-degree: 1%
 
 1. セカンダリツールバーの [!UICONTROL **タグ表示を切り替え**] アイコンをクリックします。
 
-   ![ タグを切り替え ](images/lesson-2/tags-on-icon.png)
+   ![&#x200B; タグを切り替え &#x200B;](images/lesson-2/tags-on-icon.png)
 
    タグは、トピック内に表示されます。 タグ表示を使用すると、次のことができます。
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 1. [!UICONTROL **ロック解除**] アイコンをクリックします。
 
-   ![ チェックイン ](images/lesson-2/check-in-icon.png)
+   ![&#x200B; チェックイン &#x200B;](images/lesson-2/check-in-icon.png)
 
 リポジトリが更新され、ファイルがチェックインされたことが示されます。
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 1. セカンダリ ツールバーの [!UICONTROL **特殊文字を挿入**] アイコンをクリックします。
 
-   ![ スペシャル ](images/lesson-2/special-icon.png)
+   ![&#x200B; スペシャル &#x200B;](images/lesson-2/special-icon.png)
 
 1. 特殊文字を挿入ダイアログで、検索バーに文字の名前を入力します。
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 画面右上のツールバーを使用すると、ビューを切り替えることができます。
 
-![ モード ](images/lesson-2/modes.png)
+![&#x200B; モード &#x200B;](images/lesson-2/modes.png)
 
 - トピックの操作時に構造とコンテンツを表示するには、「**オーサー**」を選択します。
 
@@ -87,13 +87,13 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ ユーザー環境設定 ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. ユーザーの環境設定ダイアログで、「[!UICONTROL **テーマ**]」ドロップダウンをクリックします。
 
 1. 使用可能なオプションから選択します。
 
-   ![ テーマ ](images/lesson-2/themes.png)
+   ![&#x200B; テーマ &#x200B;](images/lesson-2/themes.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -105,11 +105,11 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ ユーザー環境設定 ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. User Preferences ダイアログで、ベースパスの横にある [!UICONTROL **フォルダー**] アイコンをクリックします。
 
-   ![ ベースフォルダーパス ](images/lesson-2/base-path-folder-icon.png)
+   ![&#x200B; ベースフォルダーパス &#x200B;](images/lesson-2/base-path-folder-icon.png)
 
 1. パスを選択ダイアログで、特定のフォルダーの横にあるチェックボックスをクリックします。
 
@@ -123,11 +123,11 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ ユーザー環境設定 ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; ユーザー環境設定 &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. ユーザーの環境設定ダイアログで、「[!UICONTROL **フォルダープロファイル**]」ドロップダウンをクリックします。
 
-   ![ プロファイルリスト ](images/lesson-2/folder-profiles-dropdown.png)
+   ![&#x200B; プロファイルリスト &#x200B;](images/lesson-2/folder-profiles-dropdown.png)
 
 1. 使用可能なオプションからプロファイルを選択します。
 
@@ -141,7 +141,7 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディター設定ダイアログで、「[!UICONTROL **一般**]」タブをクリックします。
 
@@ -157,13 +157,13 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディター設定ダイアログで、「[!UICONTROL **パネル**]」タブをクリックします。
 
 1. 必要に応じて、使用可能なパネルを表示または非表示に切り替えます。
 
-   ![ パネルを切り替え ](images/lesson-2/toggle-panels.png)
+   ![&#x200B; パネルを切り替え &#x200B;](images/lesson-2/toggle-panels.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -175,7 +175,7 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディター設定ダイアログで、「[!UICONTROL **要素リスト**]」タブをクリックします。
 
@@ -183,7 +183,7 @@ ht-degree: 1%
 
 1. [!UICONTROL **プラス**] アイコンをクリックして、リストにさらに要素を追加します。
 
-   ![ 要素リスト ](images/lesson-2/elements-list.png)
+   ![&#x200B; 要素リスト &#x200B;](images/lesson-2/elements-list.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -195,7 +195,7 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディタ設定ダイアログで、「[!UICONTROL **属性リスト**]」タブをクリックします。
 
@@ -209,13 +209,13 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディター設定ダイアログで、「[!UICONTROL **条件**]」タブをクリックします。
 
 1. 適用する条件のチェックボックスを選択します。
 
-   ![ 「条件」タブ ](images/lesson-2/condition.png)
+   ![&#x200B; 「条件」タブ &#x200B;](images/lesson-2/condition.png)
 
 1. 「[!UICONTROL **保存**]」をクリックします。
 
@@ -225,7 +225,7 @@ Publish プロファイルを使用すると、ナレッジベースを公開で
 
 1. 上部ツールバーの [!UICONTROL **エディター設定**] アイコンをクリックします。
 
-   ![ エディター設定 ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; エディター設定 &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. エディター設定ダイアログで、「[!UICONTROL **プロファイル**]」タブをクリックします。
 

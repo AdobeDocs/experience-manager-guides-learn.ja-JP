@@ -27,7 +27,7 @@ ht-degree: 0%
 
    c.抽出するファイルを選択します。
 
-   ![Zip を選択 ](images/lesson-9/select-zip.png)
+   ![Zip を選択 &#x200B;](images/lesson-9/select-zip.png)
 
    d.上部のツールバーの [!UICONTROL **アーカイブを抽出**] をクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. 抽出が完了したら、「[!UICONTROL **ターゲットフォルダーに移動**]」をクリックします。
 
-   ![ 確認 ](images/lesson-9/go-to-target.png)
+   ![&#x200B; 確認 &#x200B;](images/lesson-9/go-to-target.png)
 
 ## キーを参照値に解決する
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    c.上部のツールバーで [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ 上部ツールバー ](images/lesson-9/author-view.png)
+   ![&#x200B; 上部ツールバー &#x200B;](images/lesson-9/author-view.png)
 
    d. キーアイコンをクリックして、キーの解決に使用する **ルートマップ** を指定します。
 
    e.目的のAssetsのチェックボックスをオンにします。
 
-   ![Assets ドロップダウン ](images/lesson-9/select-assets.png)
+   ![Assets ドロップダウン &#x200B;](images/lesson-9/select-assets.png)
 
    f. 「[!UICONTROL **選択**]」をクリックします。
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 1. キーを選択します。
 
-   ![ キードロップダウン ](images/lesson-9/hybrid-key.png)
+   ![&#x200B; キードロップダウン &#x200B;](images/lesson-9/hybrid-key.png)
 
 1. 新しいキー定義を挿入します。
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    b.上部のツールバーにある **Keydef** アイコンを選択します。
 
-   ![Keydef ツールバー ](images/lesson-9/key-icon.png)
+   ![Keydef ツールバー &#x200B;](images/lesson-9/key-icon.png)
 
    c. [ キー定義を挿入 ] ダイアログで、作成している定義に適したキーの一意の値を入力します。
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    a.上部のツールバーの [!UICONTROL **要素を挿入**] アイコンをクリックします。
 
-   ![Keydef ツールバー ](images/lesson-9/add-icon.png)
+   ![Keydef ツールバー &#x200B;](images/lesson-9/add-icon.png)
 
    b. 「要素の挿入」ダイアログで、「topicmeta」を検索して選択します。
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
    a.上部のツールバーの [!UICONTROL **要素を挿入**] アイコンをクリックします。
 
-   ![Keydef ツールバー ](images/lesson-9/add-icon.png)
+   ![Keydef ツールバー &#x200B;](images/lesson-9/add-icon.png)
 
    b. エレメントを挿入ダイアログで、「キーワード」を検索して選択します。
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
    a.上部のツールバーの [!UICONTROL **要素を挿入**] アイコンをクリックします。
 
-   ![Keydef ツールバー ](images/lesson-9/add-icon.png)
+   ![Keydef ツールバー &#x200B;](images/lesson-9/add-icon.png)
 
    b. **要素を挿入** ダイアログで、「keyword」を検索して選択します
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 マップでは、keydef は次のようになります。
 
-![Keydef が終了しました ](images/lesson-9/keydef.png)
+![Keydef が終了しました &#x200B;](images/lesson-9/keydef.png)
 
 ## keydef をスニペットとして設定する
 

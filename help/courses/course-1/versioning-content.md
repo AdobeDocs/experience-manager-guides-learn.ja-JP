@@ -19,7 +19,7 @@ ht-degree: 1%
 
 1. 「新規バージョンとして保存」アイコンを選択します。
 
-   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
    新しいバージョンとして保存ダイアログが表示されます。
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 1. ツールバーの「バージョン履歴」アイコンを選択します。
 
-   ![ バージョン履歴アイコン ](images/lesson-7/version-history.png)
+   ![&#x200B; バージョン履歴アイコン &#x200B;](images/lesson-7/version-history.png)
 
    バージョン履歴ダイアログが表示されます。
 

@@ -33,7 +33,7 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
 1. **一般** 設定タブを選択します。
 
-   ![ スペルチェック設定 ](images/lesson-11/configure-dictionary.png)
+   ![&#x200B; スペルチェック設定 &#x200B;](images/lesson-11/configure-dictionary.png)
 
 1. 次の 2 つのオプションがあります。
 
@@ -53,11 +53,11 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
 1. **CRXDE Lite** にログインします。
 
-   ![AEM UI CRXDE Liteアイコン ](images/lesson-11/crxde-lite.png)
+   ![AEM UI CRXDE Liteアイコン &#x200B;](images/lesson-11/crxde-lite.png)
 
 1. **_/apps/fmdita/config ノード_** に移動します。
 
-   ![CRXDE Lite構成ノード ](images/lesson-11/config-node.png)
+   ![CRXDE Lite構成ノード &#x200B;](images/lesson-11/config-node.png)
 
 1. 新規ファイルを作成します。
 
@@ -65,11 +65,11 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
    b. 「**作成/ファイルを作成**」を選択します。
 
-   ![ 新しい辞書ファイルの作成 ](images/lesson-11/new-dictionary-file.png)
+   ![&#x200B; 新しい辞書ファイルの作成 &#x200B;](images/lesson-11/new-dictionary-file.png)
 
    c. ファイル名に _&#x200B;**user_dictionary.txt**&#x200B;_ と入力します。
 
-   ![ ユーザー辞書のテキスト ](images/lesson-11/user-dictionary.png)
+   ![&#x200B; ユーザー辞書のテキスト &#x200B;](images/lesson-11/user-dictionary.png)
 
    d. 「[!UICONTROL **OK**]」をクリックします。
 
@@ -87,7 +87,7 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
 1. 上部ツールバーの検索と置換アイコンをクリックします。
 
-   ![ 検索と置換アイコン ](images/lesson-11/find-replace-icon.png)
+   ![&#x200B; 検索と置換アイコン &#x200B;](images/lesson-11/find-replace-icon.png)
 
 1. 下部のツールバーに単語または語句を入力します。
 
@@ -111,7 +111,7 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
    - **完全に一致する単語のみ** – 入力した単語または語句のみを返すように検索を制限します。
 
-   ![ リポジトリ内の置換を検索 ](images/lesson-11/repository-find-replace.png)
+   ![&#x200B; リポジトリ内の置換を検索 &#x200B;](images/lesson-11/repository-find-replace.png)
 
 1. [!UICONTROL **フィルターを適用**] アイコンをクリックして、検索を実行するリポジトリ内のパスを選択します。
 
@@ -123,4 +123,4 @@ AEM Guides Editor には、強力なスペルチェック機能と検索およ�
 
 1. 目的のファイルを開き、矢印を使用して、見つかった結果から次の結果に移動します。
 
-   ![ 検索と置換のナビゲーション UI](images/lesson-11/find-replace-navigation.png)
+   ![&#x200B; 検索と置換のナビゲーション UI](images/lesson-11/find-replace-navigation.png)

@@ -33,7 +33,7 @@ ht-degree: 1%
 
 1. 上部ツールバーの [!UICONTROL **ユーザー環境設定**] アイコンをクリックします。
 
-   ![ ユーザー環境設定アイコン ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; ユーザー環境設定アイコン &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. キーアイコンをクリックして、用語集を操作するための正しいルートマップを指定します。
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 1. 用語集で使用できるように事前設定されているマップを選択します。
 
-   ![ 事前設定マップアイコン ](images/lesson-10/preconfig-map.png)
+   ![&#x200B; 事前設定マップアイコン &#x200B;](images/lesson-10/preconfig-map.png)
 
 1. [!UICONTROL **マップ ビュー**] を選択します。
 

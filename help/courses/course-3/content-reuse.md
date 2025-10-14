@@ -27,7 +27,7 @@ DITA の主な機能の 1 つは、コンテンツを再利用する機能です
 
 1. 新しいトピックを作成ダイアログのフィールドに値を入力します。 次に例を示します。
 
-   ![ 確認 ](images/lesson-8/new-topic-dialog.png)
+   ![&#x200B; 確認 &#x200B;](images/lesson-8/new-topic-dialog.png)
 
 1. 「[!UICONTROL **作成**]」をクリックします。
 
@@ -43,7 +43,7 @@ DITA の主な機能の 1 つは、コンテンツを再利用する機能です
 
 1. 上部ツールバーの **再利用可能なコンテンツを挿入** アイコンを選択します。
 
-   ![ 確認 ](images/lesson-8/insert-reuse-icon.png)
+   ![&#x200B; 確認 &#x200B;](images/lesson-8/insert-reuse-icon.png)
 
 1. コンテンツを再利用ダイアログで、「[!UICONTROL **フォルダー**] アイコンをクリックします。
 
@@ -52,7 +52,7 @@ DITA の主な機能の 1 つは、コンテンツを再利用する機能です
 1. 再利用可能なコンポーネントを含むトピックを選択します。
 次に例を示します。
 
-   ![ 確認 ](images/lesson-8/reusable-topic.png)
+   ![&#x200B; 確認 &#x200B;](images/lesson-8/reusable-topic.png)
 
 1. [!UICONTROL **選択**] をクリックします。
 
@@ -68,7 +68,7 @@ DITA の主な機能の 1 つは、コンテンツを再利用する機能です
 
 1. 再利用可能なコンテンツ パネルの [!UICONTROL **追加**] アイコンをクリックします。
 
-   ![ 確認 ](images/lesson-8/reuse-contents-icon.png)
+   ![&#x200B; 確認 &#x200B;](images/lesson-8/reuse-contents-icon.png)
 
 1. フォルダーに移動します。
 
