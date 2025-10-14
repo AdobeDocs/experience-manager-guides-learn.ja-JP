@@ -3,9 +3,13 @@
   "component": "spectrum_view",
   "elementId": "editor_tab_bar",
   "show": "@showEditorAppActions",
+  "style": {
+    "className": "bg-app-frame-pasteboard editor-app-actions"
+  },
   "items": [
     {
       "component": "spectrum_flex",
+      "style": { "alignItems": "center", "justifyContent": "end", "height": "2.45rem" },
       "items": [
         {
           "component": "spectrum_actionButton",
@@ -23,7 +27,8 @@
           "component": "spectrum_divider",
           "orientation": "vertical",
           "size": "S",
-          "show": "@activeEditor"
+          "show": "@activeEditor",
+          "style": { "marginX": "size-50", "marginY": "size-100" }
         },
         {
           "component": "widget",
@@ -33,30 +38,24 @@
           "component": "spectrum_divider",
           "orientation": "vertical",
           "show": "@showAiAssistantButton",
-          "size": "S"
+          "size": "S",
+          "style": { "marginX": "size-50", "marginY": "size-100" }
         },
         {
           "component": "spectrum_flex",
+          "style": { "width": "size-500", "justifyContent": "center", "className" : "editor-settings-menu-dropdown" },
           "items": [
             {
-              "component": "spectrum_actionMenu",
-              "on-action": "handleActionMenu",
-              "isQuiet": true,
-              "triggerConfig": {
-                "component": "spectrum_actionButton",
-                 "aria-label": "More Action",
-                 "title": "More actions",
-                "isQuiet": true,
-                "items": [{ "component": "spectrum_icon", "icon": "moreVertical" }]
-              },
-              "items": "@actions"
+              "component": "widget",
+              "id": "common_header_actions"
             }
           ]
         },
         {
           "component": "spectrum_divider",
           "orientation": "vertical",
-          "size": "S"
+          "size": "S",
+          "style": { "marginX": "size-50", "marginY": "size-100" }
         },
         {
           "component": "spectrum_actionButton",
@@ -64,6 +63,7 @@
           "aria-label":"$$maximiseButtonTitle",
           "isQuiet": true,
           "title": "$$maximiseButtonTitle",
+          "style": { "marginEnd": "size-100" },
           "items": [{ "component": "spectrum_icon", "icon": "$$maximizeIcon" }]
         }
       ]
