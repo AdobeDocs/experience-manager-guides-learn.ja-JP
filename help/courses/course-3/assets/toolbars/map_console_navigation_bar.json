@@ -2,6 +2,7 @@
   "id": "map_console_navigation_bar",
   "component": "div",
   "extraclass": "map-console-primary-header",
+  "elementId": "map_console_navigation_bar",
   "items": [
     {
       "component": "div",
@@ -14,13 +15,9 @@
           "title": "@title",
           "items": [
             {
-              "component": "icon",
-              "icon": "hierarchicalNodeView",
-              "size": "S"
-            },
-            {
               "component": "label",
-              "label": "@mapTitle"
+              "label": "@mapTitle",
+              "extraclass": "overflow-ellipses"
             }
           ]
         },
@@ -40,6 +37,9 @@
             {
               "component": "spectrum_menu",
               "on-action": "menuItemSelected",
+              "style": {
+                "minWidth": "200px"
+              },
               "items": "@dropDownItems"
             }
           ]
@@ -61,16 +61,8 @@
           "orientation": "vertical"
         },
         {
-          "component": "spectrum_actionMenu",
-          "on-action": "actionMenuItemSelected",
-          "isQuiet": true,
-          "triggerConfig": {
-            "component": "spectrum_actionButton",
-            "title": "More actions",
-            "isQuiet": true,
-            "items": [{ "component": "spectrum_icon", "icon": "moreVertical" }]
-          },
-          "items": "@actions"
+          "component": "widget",
+          "id": "common_header_actions"
         },
         { 
           "component": "spectrum_divider",
@@ -83,6 +75,7 @@
           "aria-label": "$$maximiseButtonTitle",
           "isQuiet": true,
           "title": "$$maximiseButtonTitle",
+          "style": { "marginEnd": "size-100" },
           "items": [{ "component": "spectrum_icon", "icon": "$$maximizeIcon" }]
         }
       ]
