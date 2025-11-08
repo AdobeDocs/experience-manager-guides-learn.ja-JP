@@ -9,6 +9,6 @@ ht-degree: 0%
 
 「チュートリアル」セクションのファイルは、`experience-manager-guides.en` リポジトリに含まれています。
 
-<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
+<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.ja-JP>
 
 この – learn リポジトリには、ビデオコンテンツのみを含める必要があります。 すべての製品ドキュメントは、もう一方のリポジトリに格納されています。
