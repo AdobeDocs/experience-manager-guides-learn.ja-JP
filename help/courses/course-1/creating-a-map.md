@@ -31,18 +31,18 @@ ht-degree: 1%
 
 ## マップの作成
 
-1. [!UICONTROL  オプション ] メニューを開くには、メインフォルダーの省略記号アイコンを選択します。
+1. [!UICONTROL &#x200B; オプション &#x200B;] メニューを開くには、メインフォルダーの省略記号アイコンを選択します。
 
-   ![ 省略記号アイコン ](images/lesson-8/ellipses-9.png)
+   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-8/ellipses-9.png)
 
 1. **[!UICONTROL 作成]**/**[!UICONTROL マップ]** を選択します。
 
 
-   ![ マップを作成 ](images/lesson-8/create-map-with-markings.png)
+   ![&#x200B; マップを作成 &#x200B;](images/lesson-8/create-map-with-markings.png)
 
-   [!UICONTROL  新しいマップを作成 ] ダイアログが表示されます。
+   [!UICONTROL &#x200B; 新しいマップを作成 &#x200B;] ダイアログが表示されます。
 
-1. 「[!UICONTROL  テンプレート ]」フィールドで、ドロップダウンメニューから **[!UICONTROL ブックマップ]** を選択し、マップにタイトルを付けます。
+1. 「[!UICONTROL &#x200B; テンプレート &#x200B;]」フィールドで、ドロップダウンメニューから **[!UICONTROL ブックマップ]** を選択し、マップにタイトルを付けます。
 1. 「**[!UICONTROL 作成]**」を選択します。
 
    マップが作成され、左側のパネルが自動的にリポジトリビューからマップビューに変わります。
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 1. リポジトリアイコンを選択して、リポジトリビューに戻します。
 
-   ![ リポジトリアイコン ](images/common/repository-icon.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/common/repository-icon.png)
 
 1. トピックをリポジトリからエディターのマップにドラッグ&amp;ドロップして、マップに追加します。
 
@@ -73,11 +73,11 @@ ht-degree: 1%
 
    ![「プレビュー」ボタン](images/common/select-preview.png)
 
-コンテンツが [!UICONTROL  プレビュー ] で開きます。
+コンテンツが [!UICONTROL &#x200B; プレビュー &#x200B;] で開きます。
 
 1. オーサービューに戻り、マップの編集を再開するには、**オーサー** を選択します。
 
-   ![ オーサーボタン ](images/lesson-5/author-map.png)
+   ![&#x200B; オーサーボタン &#x200B;](images/lesson-5/author-map.png)
 
 ## マップ構造の設定
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 1. トピックのアイコンをクリックして選択します。
 1. 矢印を使用して、要素をそれぞれ降格および昇格します。
 
-   ![ リポジトリアイコン ](images/lesson-8/left-right.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/lesson-8/left-right.png)
 
 ## マップを新しいバージョンとして保存します
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL 新しいバージョンとして保存]** アイコンを選択します。
 
-   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
 1. 「新しいバージョンのコメント」フィールドに、変更の概要を入力します。
 
