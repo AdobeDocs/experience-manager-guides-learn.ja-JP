@@ -2,7 +2,7 @@
 title: ' [!DNL AEM Guides] でマップを作成します。'
 description: ' [!DNL Adobe Experience Manager Guides] でマップを作成する方法を説明します。'
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 1%
@@ -10,6 +10,8 @@ ht-degree: 1%
 ---
 
 # マップの作成
+
+{{test}}
 
 マップは、階層構造で情報を追加および整理できる組織ツールです。 このタスクでは、マップを作成し、マップ内のコンテンツを整理する方法を示します。
 
@@ -29,18 +31,18 @@ ht-degree: 1%
 
 ## マップの作成
 
-1. [!UICONTROL &#x200B; オプション &#x200B;] メニューを開くには、メインフォルダーの省略記号アイコンを選択します。
+1. [!UICONTROL  オプション ] メニューを開くには、メインフォルダーの省略記号アイコンを選択します。
 
-   ![&#x200B; 省略記号アイコン &#x200B;](images/lesson-8/ellipses-9.png)
+   ![ 省略記号アイコン ](images/lesson-8/ellipses-9.png)
 
 1. **[!UICONTROL 作成]**/**[!UICONTROL マップ]** を選択します。
 
 
-   ![&#x200B; マップを作成 &#x200B;](images/lesson-8/create-map-with-markings.png)
+   ![ マップを作成 ](images/lesson-8/create-map-with-markings.png)
 
-   [!UICONTROL &#x200B; 新しいマップを作成 &#x200B;] ダイアログが表示されます。
+   [!UICONTROL  新しいマップを作成 ] ダイアログが表示されます。
 
-1. 「[!UICONTROL &#x200B; テンプレート &#x200B;]」フィールドで、ドロップダウンメニューから **[!UICONTROL ブックマップ]** を選択し、マップにタイトルを付けます。
+1. 「[!UICONTROL  テンプレート ]」フィールドで、ドロップダウンメニューから **[!UICONTROL ブックマップ]** を選択し、マップにタイトルを付けます。
 1. 「**[!UICONTROL 作成]**」を選択します。
 
    マップが作成され、左側のパネルが自動的にリポジトリビューからマップビューに変わります。
@@ -55,7 +57,7 @@ ht-degree: 1%
 
 1. リポジトリアイコンを選択して、リポジトリビューに戻します。
 
-   ![&#x200B; リポジトリアイコン &#x200B;](images/common/repository-icon.png)
+   ![ リポジトリアイコン ](images/common/repository-icon.png)
 
 1. トピックをリポジトリからエディターのマップにドラッグ&amp;ドロップして、マップに追加します。
 
@@ -71,11 +73,11 @@ ht-degree: 1%
 
    ![「プレビュー」ボタン](images/common/select-preview.png)
 
-コンテンツが [!UICONTROL &#x200B; プレビュー &#x200B;] で開きます。
+コンテンツが [!UICONTROL  プレビュー ] で開きます。
 
 1. オーサービューに戻り、マップの編集を再開するには、**オーサー** を選択します。
 
-   ![&#x200B; オーサーボタン &#x200B;](images/lesson-5/author-map.png)
+   ![ オーサーボタン ](images/lesson-5/author-map.png)
 
 ## マップ構造の設定
 
@@ -84,7 +86,7 @@ ht-degree: 1%
 1. トピックのアイコンをクリックして選択します。
 1. 矢印を使用して、要素をそれぞれ降格および昇格します。
 
-   ![&#x200B; リポジトリアイコン &#x200B;](images/lesson-8/left-right.png)
+   ![ リポジトリアイコン ](images/lesson-8/left-right.png)
 
 ## マップを新しいバージョンとして保存します
 
@@ -92,7 +94,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL 新しいバージョンとして保存]** アイコンを選択します。
 
-   ![&#x200B; 新規バージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
+   ![ 新規バージョンとして保存アイコン ](images/common/save-as-new-version.png)
 
 1. 「新しいバージョンのコメント」フィールドに、変更の概要を入力します。
 
