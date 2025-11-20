@@ -5,7 +5,7 @@ breadcrumb-title: AEM Guides のチュートリアル
 source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 17%
+ht-degree: 22%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 17%
    + [公開エラーのトラブルシューティング](./course-2/troubleshooting-publishing-errors.md)
    + [一括公開](./course-2/bulk-publishing.md)
    + [まとめ](./course-2/recap.md)
-+ [!DNL AEM Guides] Editor を使用したオーサリング {#advanced-user-guide}
++ [!DNL AEM Guides] エディターを使用したオーサリング {#advanced-user-guide}
    + [オーサリングの概要](./course-3/overview.md)
    + [ユーザーの環境設定、エディターの設定、エディターツールバー](./course-3/user-settings-preferences-toolbars.md)
    + [フォルダープロファイル](./course-3/folder-profiles.md)
