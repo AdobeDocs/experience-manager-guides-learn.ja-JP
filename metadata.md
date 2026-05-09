@@ -6,13 +6,16 @@ product: Experience Manager
 index: true
 type: Tutorial
 solution: Experience Manager, Experience Manager Guides
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
 landing-page-name: experience-manager-guides
 landing-page-breadcrumb-title: AEM Guides
 feature-set: Experience Manager Guides
 role: User
-source-git-commit: af50a7241761d4f531f530e9fcdfa5fa91f9635d
+source-git-commit: f8499b5431f43ca92fe5f9bd7d71af5d63e1bcd5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: 150
 ht-degree: 1%
 
 ---
