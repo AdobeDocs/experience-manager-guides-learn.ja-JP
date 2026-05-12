@@ -3,9 +3,13 @@ title: ' [!DNL AEM Guides]でのリストの操作'
 description: ' [!DNL Adobe Experience Manager Guides]でのリストの操作'
 exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 TQID: https://experienceleague.adobe.com/B4XBG3vXBPAnyiyMDy-773j9brvhK8X5y4AeBM4fdwE
-product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 297
@@ -27,7 +31,7 @@ ht-degree: 1%
 
 1. ツールバーから「**箇条書きリストを挿入**」アイコンを選択します。
 
-   ![箇条書きリストの挿入アイコン ](images/lesson-6/insert-bulleted-list.png)
+   ![箇条書きリストの挿入アイコン &#x200B;](images/lesson-6/insert-bulleted-list.png)
 
    箇条書き記号が表示されます。 これはあなたのリストの始まりです。
 
@@ -43,7 +47,7 @@ ht-degree: 1%
 
 1. ツールバーから「**番号付きリストを挿入**」アイコンを選択します。
 
-   ![番号付きリストの挿入アイコン ](images/lesson-6/insert-numbered-list.png)
+   ![番号付きリストの挿入アイコン &#x200B;](images/lesson-6/insert-numbered-list.png)
 
    数字が表示されます。 これはあなたのリストの始まりです。
 
@@ -57,7 +61,7 @@ ht-degree: 1%
 
 1. 「**新しいバージョンとして保存**」アイコンを選択します。
 
-   ![新しいバージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![新しいバージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
 1. 「新しいバージョンのコメント」フィールドに、変更の概要を明確に入力します。
 1. 「バージョンラベル」フィールドに、関連するラベルを入力します。
@@ -66,7 +70,7 @@ ht-degree: 1%
 
    >[!NOTE]
    > 
-   プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
+   >プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
 
 1. 「**保存**」を選択します。
 

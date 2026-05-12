@@ -3,9 +3,13 @@ title: ' [!DNL AEM Guides]でコンテンツを作成しています'
 description: ' [!DNL Adobe Experience Manager Guides]でコンテンツを作成しています'
 exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 TQID: https://experienceleague.adobe.com/Lq5OHK1A0CDSTUHhO-FX2FZVEcJRfyHfGXYi5gZXjbo
-product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 381
@@ -23,11 +27,11 @@ ht-degree: 2%
 
 1. フォルダーとファイルを表示するには、**リポジトリー** アイコンを選択します。
 
-   ![ リポジトリアイコン ](images/common/repository-icon.png)
+   ![&#x200B; リポジトリアイコン &#x200B;](images/common/repository-icon.png)
 
 1. **+** アイコンと&#x200B;**フォルダー**&#x200B;を選択します。
 
-   ![+のアイコン ](images/lesson-3/+-icon.png)
+   ![+のアイコン &#x200B;](images/lesson-3/+-icon.png)
 
 1. フォルダーにタイトルを付けます。
 1. 「**作成**」を選択します。
@@ -39,12 +43,12 @@ ht-degree: 2%
 
 1. リポジトリ内の新しいフォルダーにカーソルを合わせ、表示される省略記号アイコンを選択します。
 
-   ![省略記号アイコン ](images/lesson-3/ellipses-icon.png)
+   ![省略記号アイコン &#x200B;](images/lesson-3/ellipses-icon.png)
 
    オプションメニューが表示されます。
 
-1. **フォルダーを作成**を選択します。
-   ![ サブフォルダーを作成しています](images/lesson-3/create-subfolder-with-markings.png)
+1. **フォルダーを作成**&#x200B;を選択します。
+   ![&#x200B; サブフォルダーを作成しています](images/lesson-3/create-subfolder-with-markings.png)
 
 1. サブフォルダーにタイトル（「画像」など）を付け、**作成**&#x200B;を選択します。
 
@@ -52,7 +56,7 @@ ht-degree: 2%
 
 1. リポジトリ内の親フォルダーにカーソルを合わせ、省略記号アイコンを選択します。
 
-   ![省略記号アイコン ](images/lesson-3/ellipses-icon.png)
+   ![省略記号アイコン &#x200B;](images/lesson-3/ellipses-icon.png)
 
    オプションメニューが表示されます。
 
@@ -64,13 +68,13 @@ ht-degree: 2%
 
 1. ダイアログの「テンプレート」ドロップダウンメニューから、「**概念**」を選択します。
 
-   ![ テンプレート ドロップダウン ](images/lesson-3/dropdown-with-markings.png)
+   ![&#x200B; テンプレート ドロップダウン &#x200B;](images/lesson-3/dropdown-with-markings.png)
 
 1. コンセプトにタイトルを付けて、**作成**&#x200B;を選択します。
 
    新しいコンセプトがエディターに表示され、タイトルが入力されます。
 
-   ![新しいコンセプト ](images/lesson-3/new-concept.png)
+   ![新しいコンセプト &#x200B;](images/lesson-3/new-concept.png)
 
 1. 短い説明または段落をクリックしてコンテンツを入力し、コンセプトを入力します。
 
@@ -82,13 +86,13 @@ ht-degree: 2%
 
 1. **保存** アイコンを選択します。
 
-   ![保存アイコン ](images/common/save.png)
+   ![保存アイコン &#x200B;](images/common/save.png)
 
 ### 新しいバージョンとして保存
 
 1. 保存アイコンの右側にある「**新しいバージョンとして保存**」アイコンを選択します。
 
-   ![新しいバージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![新しいバージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
    新しいバージョンとして保存ダイアログボックスが表示されます。
 
@@ -99,7 +103,7 @@ ht-degree: 2%
 
    >[!NOTE]
    > 
-   プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
+   >プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
 
 1. 「**保存**」を選択します。
 
