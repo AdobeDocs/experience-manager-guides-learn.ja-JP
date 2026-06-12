@@ -1,14 +1,12 @@
 ---
 cloud: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-guides-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/experience-manager-guides-learn.en
 product: Experience Manager
 index: true
 type: Tutorial
 solution: Experience Manager, Experience Manager Guides
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
 usetq: true
 landing-page-name: experience-manager-guides
 landing-page-breadcrumb-title: AEM Guides
