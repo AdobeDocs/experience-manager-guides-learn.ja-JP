@@ -3,9 +3,14 @@ title: コンテンツの再利用
 description: AEM Guidesの機能の反復使用
 exl-id: 453c5a09-0bcf-4760-87fc-df3ea4a3a30a
 TQID: https://experienceleague.adobe.com/MJKB2oOi8SQbB6L8059wvMpFkwQ3M9iH2Jpxo3g9R0U
-product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+  - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 355

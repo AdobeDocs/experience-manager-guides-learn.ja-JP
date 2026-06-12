@@ -3,9 +3,13 @@ title: ' [!DNL AEM Guides]のWeb サイトへのリンク'
 description: ' [!DNL Adobe Experience Manager Guides]のWeb サイトへのリンク'
 exl-id: 6b89f52e-ac15-4604-8bac-ab0bb5b5a978
 TQID: https://experienceleague.adobe.com/B-iGk-jg3kY-i-NFfjdAmKzuOYlXXzbMDjX1ui-aP44
-product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 310
@@ -27,7 +31,7 @@ web リンクを使用すると、web サイトに読者を誘導して詳細を
    この強調表示されたテキストは、リンクが挿入される場所です。
 1. ツールバーから「**相互参照を挿入**」ボタンを選択します。
 
-   ![相互参照を挿入アイコン ](images/lesson-5/insert-crossref-icon.png)
+   ![相互参照を挿入アイコン &#x200B;](images/lesson-5/insert-crossref-icon.png)
 
    参照ダイアログが表示されます。
 
@@ -51,7 +55,7 @@ web リンクを使用すると、web サイトに読者を誘導して詳細を
 リンク先が別のタブで開きます。
 1. 上部の黒いメニューバーから「**作成者**」を選択して、作成者ビューに戻ります。
 
-   ![作成者ボタン ](images/lesson-5/author-map.png)
+   ![作成者ボタン &#x200B;](images/lesson-5/author-map.png)
 
 
 ## 新しいバージョンとして保存
@@ -60,7 +64,7 @@ web リンクを使用すると、web サイトに読者を誘導して詳細を
 
 1. 「**新しいバージョンとして保存**」アイコンを選択します。
 
-   ![新しいバージョンとして保存アイコン ](images/common/save-as-new-version.png)
+   ![新しいバージョンとして保存アイコン &#x200B;](images/common/save-as-new-version.png)
 
 1. 「新しいバージョンのコメント」フィールドに、変更の概要を明確に入力します。
 1. 「バージョンラベル」フィールドに、関連するラベルを入力します。
@@ -69,7 +73,7 @@ web リンクを使用すると、web サイトに読者を誘導して詳細を
 
    >[!NOTE]
    > 
-   プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
+   >プログラムが定義済みのラベルで設定されている場合は、これらのラベルから選択して、一貫したラベル付けを行うことができます。
 
 1. 「**保存**」を選択します。
 
