@@ -3,13 +3,9 @@ title: アウトラインビュー
 description: AEM Guidesでのアウトラインビューの使用
 exl-id: 300f550f-dc79-4971-b8ba-43fe8499ea02
 TQID: https://experienceleague.adobe.com/nZjBabsObAB0RzalVCDMBDvxD4noAsA1p4-N-6EBXuQ
-product_v2:
-  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: cb8c6a2a-3c38-4e40-867c-756f8c36bb0e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: cb8c6a2a-3c38-4e40-867c-756f8c36bb0e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 400
@@ -29,9 +25,9 @@ ht-degree: 0%
 
 1. 適切なアイコンをクリックして、アウトライン表示を展開または折りたたみます。
 
-   ![参照アウトライン &#x200B;](images/lesson-6/outline-collapsed-before.png)
+   ![参照アウトライン ](images/lesson-6/outline-collapsed-before.png)
 
-   ![&#x200B; アウトライン サブタブを参照](images/lesson-6/outline-expanded-after.png)
+   ![ アウトライン サブタブを参照](images/lesson-6/outline-expanded-after.png)
 
 アウトライン表示が展開から折りたたみに切り替わります。
 
@@ -41,7 +37,7 @@ ht-degree: 0%
 
 1. エレメントの横にある&#x200B;[!UICONTROL **省略記号**]&#x200B;をクリックして、ショートカットオプションにアクセスします。
 
-   ![&#x200B; コンテキストメニュー](images/lesson-6/shortcut-options.png)
+   ![ コンテキストメニュー](images/lesson-6/shortcut-options.png)
 
 ## アウトライン表示を使用したIDの割り当て
 
